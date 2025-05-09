@@ -15,7 +15,7 @@ if __name__ == "__main__":
     from extract_pdf import extract_text_from_pdf
 
     # PDF-Datei einlesen
-    pdf_path = "C:\\Users\\noahd\\Desktop\\chatbot\\chatbot_sai\\test_data\\User_manual_ASSA_ABLOY_RP400_de-DE.pdf"
+    pdf_path = "./test_data\\User_manual_ASSA_ABLOY_RP400_de-DE.pdf"
     raw_text = extract_text_from_pdf(pdf_path)
 
     # Text in Chunks aufteilen

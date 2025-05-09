@@ -16,7 +16,7 @@ def extract_text_from_pdf(pdf_path):
 # Beispielnutzung
 if __name__ == "__main__":
     # Pfad zur PDF-Datei
-    base_dir = "C:\\Users\\noahd\\Desktop\\chatbot\\chatbot_sai\\test_data"
+    base_dir = "./test_data"
     filename = "User_manual_ASSA_ABLOY_RP400_de-DE.pdf"  # <-- ändere das zu deinem echten Dateinamen
     pdf_file = os.path.join(base_dir, filename)
 
