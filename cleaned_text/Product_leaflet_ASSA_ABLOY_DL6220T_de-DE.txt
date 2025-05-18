@@ -1,0 +1,205 @@
+
+--- Page 1 ---
+Überladebrücke
+ASSA ABLOY DL6220T
+Technische Daten
+Nennlänge
+2000, 2500, 3000 mm
+Nennbreite
+2000, 2200, 2250 mm
+Tragkraft
+60 kN (6 Tonnen)
+Stahlsorte aller Stahlteile
+S355
+Vertikaler Arbeitsbereich
+Überbrückung nach oben
+Überbrückung nach unten
+bis zu 530 mm
+bis zu 470 mm
+Stärke des Tränenbleches des 
+Plateaus
+6 mm S355 (6/8)
+Max. Punktlast 
+Überladebrückenplateau
+6,5 N /mm² 
+Auflager Ausführung und 
+Länge
+Standard Vorschub, 
+500/1000 mm 
+Ergo-Vorschub, 345 mm
+Material Auflager
+Stahl oder Aluminium
+Auflageroptionen
+abgeschrägtes Auflager/
+Einstoßzungen
+Schutzklasse der Steuerung
+IP 54
+Temperaturbereich Hydrauliköl
+-15°C bis +60°C
+Europäische Norm
+EN 1398 
+Überladebrücken
+ASSA ABLOY Insight
+Integrierte Konnektivität für die Überwachung, 
+Steuerung und den Zugriff auf Daten der Verladestelle 
+und Funktionen wie:	
+- Zuverlässigkeit der Leistung von Toren und 
+Überladebrücken.	
+- Echtzeitalarme bei Störungen oder Hindernissen	
+- Operative Leistungsfähigkeit
+ASSA ABLOY DE6190DI Dock-IN
+ASSA ABLOY Dock-IN ist die weltweit erste 
+Kombination aus visueller Andockhilfe und 
+Ampelanlage in einem System. ASSA ABLOY  
+Dock-IN ermöglicht mit Hilfe weißer Lichtleisten 
+und einem ROT-Signal einen sicheren und einfachen 
+Andockvorgang. Somit werden alternative Hilfsmittel, 
+wie z.B. weiße Markierungen auf dem Asphalt oder 
+konventionelle Einfahrhilfen aus Stahl (zusätzliche 
+Hindernisse!) überflüssig. Dank moderner LED-
+Technologie hat ASSA ABLOY Dock-IN einen niedrigen 
+Energieverbrauch und eine lange Lebensdauer.
+Konzipiert für anspruchvollste 
+Verladesituationen.
+Mit dem ASSA ABLOY DL6220T Teledock stellen 
+wir Ihnen eine ganz neue Art von hydraulischer 
+Überladebrücke vor. Die außergewöhnlich robuste 
+Konstruktion aus hochwertigem S355-Stahl bietet 
+höchste Leistung und eine größtmögliche Lebensdauer 
+für Ihren stark frequentierten Verladebetrieb. Das 
+ASSA ABLOY DL6220T Teledock besteht aus weniger 
+Komponenten und ist daher langlebiger, zuverlässiger 
+und einfacher zu warten. Das Ergebnis sind längere 
+Betriebszeiten und geringere Betriebskosten.
+Ausgestattet mit der bewährten Technologie eines 
+beweglichen Vorschubs mit flexiblem Arbeitsbereich 
+ist die ASSA ABLOY DL6220T ideal für alle Ihre 
+Verladeanforderungen – egal wie komplex sie sind. Das 
+verbesserte Design sorgt für einen reibungsloseren 
+Übergang von der Rampe zum Fahrzeug und federt Stöße 
+ab. Ein durchdachtes Design optimiert Ihren Betrieb, die 
+Arbeitsbedingungen und erhöht die Sicherheit.
+Die ASSA ABLOY DL6220T Teledock kann auch mit 
+Konnektivität ausgestattet werden, um Ihr Tagesgeschäft 
+zu unterstützen und es effizienter und intelligenter denn 
+je zu machen.
+
+--- Page 2 ---
+950 LSA TD
+950 LA TD
+950 DLSA TD
+950 DLA TD
+ASSA ABLOY DE6190DI Dock-IN
+950 LA TD
+950 DLA TD
+950 LSA TD
+950 DLSA TD
+LE
+Grün
+RAL 6005
+Rot
+RAL 3002
+Blau
+RAL 5010
+Tiefschwarz
+RAL 9005
+Betriebsfunk-
+tionen für Über-
+ladebrücken mit 
+Vorschub
+ASSA ABLOY 
+DE6190DI 
+Dock-IN
+Erforderliche 
+bauseitige elektr. 
+Voraussetzungen
+Abmessungen
+TD = Teledock
+L = 
+Überladebrücke
+A = Autotaster
+D = Tor
+S = Torabdichtung
+Erhältliche 
+Standardfarben
+NL
+Nennlänge
+OL
+Gesamtlänge
+GL
+Steigungslänge
+NW
+Nennbreite
+LE
+Länge Vorschub
+LH
+Bauhöhe
+A
+Arbeitsbereich Überbrückung nach oben
+B
+Arbeitsbereich Überbrückung nach unten
+1
+Steuerung (im Lieferumfang enthalten)
+2
+Rohr für Elektroleitung, Innendurchmesser 70, Winkel <45° 
+(bauseitig)
+3
+Stromversorgung:
+Netzsicherung:
+Motorleistung:
+3 / N / PE AC 50 Hz
+230 / 400 V
+D0 10 A gL
+1,5 kW
+4
+Kabel:
+7 x 0,75 mm²
+5
+Motorkabel:
+4 x 1,5 mm²
+6
+Optionaler Sicherheitsschalter am Sektionaltor zur Verriegelung 
+der Überladebrücke, wenn das Tor geschlossen ist*
+*Keine Standardausstattung
+Montage an der Innenseite des Gebäudes 
+hinter dem Sektionaltor
+© ASSA ABLOY | PL.DL6220T/de-DE/2023-05     Änderungen technischer Daten ohne vorherige Benachrichtigung vorbehalten.
+Abmessungen
+Vertikaler Arbeitsbereich
+NL
+LH
+Measures
+500 mm
+1000 mm
+Ergo
+2000
+600
+A
+440
+530
+400
+B
+400
+470
+370
+2500
+600
+A
+450
+530
+420
+B
+380
+430
+350
+3000
+600
+A
+430
+490
+400
+B
+360
+410
+340
+Nennbreite (NW) 2000, 2200, 2250 für alle Größen

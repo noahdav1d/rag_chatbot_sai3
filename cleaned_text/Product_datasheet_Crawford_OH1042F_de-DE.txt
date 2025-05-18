@@ -1,0 +1,1805 @@
+
+--- Page 1 ---
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+
+--- Page 2 ---
+Technische Daten
+Eigenschaften
+Max. Größe: (B x H)*
+7250 x 6050 mm
+Rahmenstärke:
+44 mm
+Rahmenmaterial:
+Aluminiumrohrrahmen
+Füllung:
+Fenster oder isolierte Paneele oder Füllungen
+Außenfarbe:
+Alu eloxiert
+Innenfarbe:
+Alu eloxiert
+Beschlagstypen:
+Standard: SL
+Optional: HL, LL, VL, HHL, SLL
+Fenster:
+Optional: DAS, DSS, DAD, DSD, TAD, TSD, SA3, SS3, SH4
+Schlupftür:
+Optional: In Torblatt oder Seitenteil
+Elektrischer Antrieb:
+Optional: Automatikbetrieb, Zugangskontrolle, Sicherheitsfunktionen
+* Auf Anfrage bis zu 9000 x 6050 mm erhältlich
+Leistung
+Öffnungs-/Schließgeschwin-
+digkeit:
+CDM9: 0,25 m/s
+CDM9 HD: 0,18 m/s
+CDM9 2H: Öffnen 0,5 m/s, Schließen 0,25 m/s
+Erwartete Lebensdauer:
+Tor: 200000 Lastwechsel oder 10 Jahre bei Durchführung des Wartungs-/Austauschpro-
+gramms.
+Federn: 20000 Lastwechsel; optional max. 100000, abhängig von der Torkonfiguration.
+Widerstand gegen Windlast,
+EN 12424
+Isolierte Paneelsektionen
+Class 3 (DLW ≤ 4250)
+Class 2 (4250 < DLW)
+(Höhere Klassen auf Anfrage)
+Rahmensektionen
+Class 3 (DLW ≤ 3650)
+Class 2 (3650 < DLW)
+(Höhere Klassen auf Anfrage)
+Wärmedurchgang,
+DIN EN12428
+3,1W/(m2∙K) Acryl-Dreifachverglasung
+3,6W/(m2∙K) Acryl-Doppelverglasung
+6,2W/(m2∙K) Acryl-Einfachverglasung
+(Torfläche 5000 x 5.000 mm, keine Schlupftür)
+Widerstand gegen eindrin-
+gendes Wasser, DIN EN
+12425
+Klasse 3 (keine Schlupftür)
+Luftdurchlässigkeit, DIN EN
+12426
+Klasse 3 (keine Schlupftür)
+Schalldämmung,
+DIN EN ISO 10140-2
+R - 24 dB
+3
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+
+--- Page 3 ---
+1
+1.1
+1.2
+1.2.1
+1.2.2
+1.3
+1.3.1
+1.3.2
+1.3.3
+1.3.4
+1.3.5
+1.3.6
+1.3.7
+1.3.8
+1.3.9
+1.4
+1.4.1
+1.5
+1.5.1
+1.5.2
+1.5.3
+1.5.4
+1.5.5
+1.5.6
+1.5.7
+1.5.8
+2
+2.1
+2.2
+2.3
+2.4
+2.5
+2.5.1
+2.6
+2.7
+2.7.1
+2.7.2
+3
+3.1
+3.1.1
+3.1.2
+3.1.3
+3.1.4
+4
+4.1
+4.2
+4.3
+4.4
+4.5
+4.5.1
+4.6
+4.7
+4.8
+4.9
+4.9.1
+4.9.2
+Inhalt
+Urheberrecht und Haftungsausschluss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+Technische Daten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+Beschreibung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Allgemeines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Abmessungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Lichte Breite und lichte Höhe. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Sektions-Abmessungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Torblatt. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+Konstruktion. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+Material. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+Vertikaler Querschnitt. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+Farben. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8
+Fenster. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8
+Dichtungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+Windverstärkungsstrebe. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+Griff. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Schubriegel. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Ausgleichssystem. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Sicherheitsvorrichtungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Laufschienensets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Allgemeines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+SL - Standardbeschlag. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+SL - Standardbeschlag niedrig. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+LL - Niedrigsturzbeschlag. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+HL - Hebungsbeschlag. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+HHL - Hebungsbeschlag mit Federbaugruppe am Ende der waagerechten Laufschienen. . . . . . . . . . . . . . . . . . . .  12
+VL - Vertikalbeschlag. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+Spezielle Laufschienensets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+Verfügbare Optionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Schlupftür mit 180 mm Schwelle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Schlupftür mit niedriger Schwelle (30 mm). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+Festfelder. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Optionale Farben. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Schloss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Zylinderschloss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Korrosionsschutzbeschläge. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Kollisionsschutz. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Laufschienen-Anfahrschutz-Kit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Verstärktes Bodenprofil. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Kenndaten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+Fenster und Schlupftür. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+Anzahl der Fensterscheiben (mit Schlupftür). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+Anzahl der Fenster (ohne Schlupftür). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+Schlupftür mit niedriger Schwelle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+Schlupftür Standardschwelle (180 mm) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+Antriebssystem. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+Antriebsarten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+Zugseil. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+Haspelkette. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+Elektrischer Betrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+CDM9 Antrieb - 950 Torsteuerungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+CDM9 Antrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+Hinweise zur Auswahl der Antriebsart. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+Auswahlhilfe für Torantrieb . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+950 Torsteuerung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+Zugang und Automatiksysteme. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+Basissteuerungsfunktionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+Externe Steuerfunktionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+4
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+
+--- Page 4 ---
+4.9.3
+4.9.4
+4.9.5
+5
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+6
+6.1
+6.1.1
+6.2
+6.2.1
+6.2.2
+6.2.3
+6.2.4
+6.2.5
+6.2.6
+7
+Automatische Steuerungsfunktionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+Sicherheitsfunktionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23
+Weitere Funktionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23
+CEN-Konformität. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+Erwartete Lebensdauer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+Widerstand gegen Windlast. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+Widerstand gegen eindringendes Wasser. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+Luftdurchlässigkeit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+Wärmedurchgang. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  26
+Schallschutz. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  26
+Betriebskräfte und sicheres Öffnen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  26
+Gebäude- und Raumbedarfsmaße. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+Bauseitige Vorbereitungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+Montagevorbereitungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+Benötigter Freiraum. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+Benötigter Freiraum SL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28
+Benötigter Platz SLL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  29
+Benötigter Freiraum HL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  30
+Benötigter Freiraum HHL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31
+Benötigter Freiraum LL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
+Benötigter Freiraum VL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  33
+Service, maßgeschneidert für Ihren Bedarf. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  34
+Index. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  35
+Inhalt
+5
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+
+--- Page 5 ---
+1.
+2.
+3.
+4.
+Beschreibung
+Allgemeines
+Das Crawford OH1042F Sektionaltor gehört zu den am besten
+isolierten Sektionaltoren auf dem Markt.
+Es handelt sich um ein Deckengliedertor, das sich in Funktion
+und Design für alle Arten von Gebäuden eignet. Hohe
+Flexibilität ermöglicht den Einbau dieses Tores in fast jede Art
+von Gebäude.
+Das Tor fährt beim Öffnen unter die Decke und lässt dadurch
+den Bereich in und um die Toröffnung komplett frei.
+Das Tor besteht aus Aluminiumrohrrahmenprofilen mit
+Sandwichpaneelfüllungen oder Acrylglasfenstern. Die hohe
+Lichtdurchlässigkeit macht dieses Tor zur idealen Wahl für
+Arbeitsumgebungen, die ein Maximum an Licht erfordern.
+Das Crawford OH1042F Sektionaltor wurde so entwickelt,
+dass es alle Anforderungen bezüglich Betrieb und Sicherheit
+der europäischen Direktiven und der Standards des
+Europäischen Komitees für Normung (CEN) erfüllt.
+Das Tor hat vier Hauptbauteile:
+Torblatt
+Laufschienen
+Gewichtsausgleichssystem
+Antriebssystem
+Abmessungen
+Lichte Breite und lichte Höhe
+Das Crawford OH1042F Sektionaltor ist standardmäßig in den
+folgenden Größen lieferbar:
+Standard-Torgrößen
+Lichte Breite
+Lichte Höhe
+Min.:
+1200 mm
+2000 mm
+Max.:
+7250 mm
+6050 mm
+Weitere Größen sind auf Anfrage erhältlich.
+Sektions-Abmessungen
+Höhe der Sektionen:
+450 - 704 mm
+Stärke:
+44 mm
+* Die Sektionen sind gleichmäßig auf die Höhe des Torblattes
+aufgeteilt (Standardausführung).
+Anzahl der Sektionen
+LH Rahmen Bodenfeld
+Anzahl der Sektionen
+0000 – 2296
+3
+2297 – 3000
+4
+3001 – 3704
+5
+3705 – 4408
+6
+4409 – 5112
+7
+5113 – 5816
+8
+5817 – 6050
+9
+LH Paneel Bodensektion
+Anzahl der Sektionen
+0000 – 2127
+3
+2128 – 2831
+4
+2832 – 3535
+5
+3536 – 4239
+6
+4240 – 4943
+7
+4944 – 5647
+8
+5648 – 6050
+9
+Beschreibung
+6
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+1
+1.1
+1.2
+1.2.1
+1.2.2
+
+--- Page 6 ---
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Torblatt
+Konstruktion
+Das Torblatt des Crawford OH1042F Sektionaltores hat
+horizontale Felder, die durch Scharniere miteinander
+verbunden sind. Die äußeren Scharniere der einzelnen Felder
+besitzen Rollen, die in den Schienen laufen.
+Die waagerechten Sektionen bestehen aus
+Aluminiumrohrrahmen mit Vollfenstern oder
+Sandwichfüllungen.
+Material
+Die Sektionen bestehen aus Aluminiumrohrrahmen mit
+Fenstern oder isolierten Sandwichfüllungen.
+Das Bodenfeld ist eine Rahmenkonstruktion mit isolierten
+Sandwichfüllungen oder Fenstern, kann aber bei Bedarf auch
+als isoliertes Stahlpaneel geliefert werden.
+Vertikaler Querschnitt
+Dichtung oben
+Integrierter Fingerschutz
+Dichtung in Sektionsscharnier
+Sektion mit Einfachverglasung als Acrylglasscheibe 3 mm
+oder mit gehärtetem Glas 4 mm
+Paneelverstärkung - Windverstärkung (bei Bedarf)
+Doppelverglasung, 27 mm
+Griff
+Paneel-Bodensektion
+Bodendichtung
+Rahmen-Bodensektion
+Beschreibung
+7
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+1.3
+1.3.1
+1.3.2
+1.3.3
+
+--- Page 7 ---
+·
+·
+·
+·
+·
+·
+1.
+2.
+3.
+1.
+2.
+3.
+4.
+5.
+Farben
+Das Crawford OH1042F Sektionaltor ist auf Anfrage in
+jeder Farbe lieferbar. Die Rahmen werden standardmäßig in
+Aluminium Natur geliefert.
+Standardfarben
+Rahmen
+Die Rahmen werden standardmäßig Alu eloxiert
+geliefert.
+Füllungen
+Die Füllungen werden standardmäßig in Alu eloxiert
+geliefert.
+Bodenabschlussprofil
+Außenfarbe:
+Standard-Rahmenfeld: Alu eloxiert
+Optionale Bodensektion: Standardmäßig in den 13
+vor-lackierten Farben RAL 1021, 3000, 5010, 6005,
+7016, 7021, 7024, 8017, 9002, 9005, 9006, 9007,
+9010 erhältlich
+Innenfarbe: RAL 9002 - Grauweiß
+Fenster
+Die Rahmenkonstruktion erlaubt den Einbau den Fenstern in
+ganzer Höhe in allen Sektionen. Die lichte Öffnung ist für alle
+Fenstertypen gleich und hängt von den Maßen des Torflügels
+ab.
+DAS / DSS
+DAS Acryldoppelverglasung (SAN mit Beschichtung), einfach
+abgedichtet
+DSS Acryldoppelverglasung (SAN), einfach abgedichtet
+2,5 mm SAN Acrylglas (mit oder ohne Beschichtung)
+Abstandsrahmen aus Aluminium
+Butyl-Dichtung
+DAD / DSD
+DAD: Kratzfeste Acryldoppelverglasung (SAN mit
+Beschichtung), doppelt abgedichtet
+DSD: Acryldoppelverglasung (SAN), doppelt abgedichtet
+2,5 mm SAN Acrylglas (mit oder ohne Beschichtung)
+Abstandsrahmen aus Aluminium
+Butyl-Dichtung
+Absorbierendes Trockenmittel
+Silikondichtung
+TAD / TSD
+TAD: Dreifach verglast, doppelt abgedichtet, 3 x 2,5 mm,
+innere und äußere Scheibe mit kratzfester SAN-Beschichtung.
+TSD: dreifach verglast, doppelt abgedichtet, 3 x 2,5mm SAN
+(ohne kratzfeste Beschichtung).
+Beschreibung
+8
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+1.3.4
+1.3.4.1
+1.3.5
+1.3.5.1
+1.3.5.2
+1.3.5.3
+
+--- Page 8 ---
+·
+·
+·
+SA3 / SS3 / SH4
+SA3: Kratzfeste Acryleinfachverglasung (SAN mit
+Beschichtung), 2,5 mm
+SS3: Acryleinfachverglasung (SAN), 2,5 mm
+SH4: Gehärtetes Einfachglas 4 mm
+Dichtungen
+Das Tor verfügt an allen Seiten über speziell
+gestaltete Dichtungen, die dem Tor seine hervorragenden
+Abdichtungseigenschaften verleihen.
+Dichtung oben
+Die obere Dichtung ist am oberen Paneel angebracht, um
+die Lücke zwischen Paneel und Wand abzudichten. Die
+obere EPDM-Gummidichtung gewährleistet eine optimale
+Isolierung und Abdichtung.
+Seitendichtung
+An den Laufschienen angebracht, um die Lücke zwischen
+den Schienen und dem Torflügel abzudichten. Die seitliche
+Doppellippendichtung mit Isolierkammern gewährleisten
+eine optimale Isolierung und Abdichtung.
+Bodendichtung
+Die Bodendichtung wird an der Unterkante des Bodenfeldes
+als Dichtung und Stoßdämpfer montiert. Das flexible EPDM-
+Gummimaterial und die O-Form üben konstanten Druck
+auf den Boden aus und gewährleisten so die maximale
+Abdichtung.
+Windverstärkungsstrebe
+Paneele mit Fenstern erhalten Windverstärkungs-Profile.
+Diese Verstärkungen reduzieren die Verformung des Paneels
+aufgrund von Windlasten. Die Windverstärkungsstrebe ist in
+die Aluminiumprofile integriert.
+Beschreibung
+9
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+1.3.5.4
+1.3.6
+1.3.6.1
+1.3.6.2
+1.3.6.3
+1.3.7
+
+--- Page 9 ---
+·
+·
+Griff
+Für die manuelle Bedienung ist jedes Crawford OH1042F
+Sektionaltor mit einem festen, gut zu greifenden und
+begehsicheren‑Griff versehen.
+Schubriegel
+Das Crawford OH1042F Sektionaltor ist serienmäßig mit
+einem Schubriegel ausgestattet. Mit dem Schubriegel wird
+das Tor von innen ohne Verwendung eines Schlüssel
+verriegelt. Zur Verwendung eines 12-mm-Vorhängeschlosses
+weist der Schubriegel ein Loch im Riegel auf.
+Ausgleichssystem
+Das Ausgleichsgewicht des Tores gleicht das Torblattgewicht
+aus, indem es eine Kraft ausübt, die in etwa dem Gewicht
+des Torblattes entspricht. So kann das Torblatt von Hand
+nach oben und unten bewegt werden und in jeder Position
+angehalten werden.
+Das System wird oben oder am Ende der Laufschienen
+montiert und arbeitet wie folgt: Auf einer Welle über der
+Toröffnung werden zwei Torsionsfedern montiert. An beiden
+Enden dieser Welle befindet sich eine Seiltrommel, von denen
+die Torseile zu den unteren Ecken des Torblattes laufen. Durch
+Drehen der Welle wird das Tor nach oben oder unten bewegt.
+Sicherheitsvorrichtungen
+Das Ausgleichssystem unterstützt das Tor bei starken
+Belastungen. Bei einem Feder- oder Seilbruch fehlt das
+Gegengewicht. Aus diesem Grund verfügt das Tor über zwei
+Sicherheitsvorrichtungen, die die Schließbewegung des Tores
+blockieren können:
+Federbruchsicherung (Standard)
+Seilbruchsicherung (optional)
+Federbruchsicherung (SBD)
+Die Federbruchsicherung (SBD) wird bei allen Crawford
+OH1042F Sektionaltor mitgeliefert.
+Im Fall eines Federbruches aktiviert die schlagartige
+Entspannung der Feder die Federbruchsicherung (SBD). Die
+Welle blockiert dann innerhalb einer Torbewegung von max.
+300 mm.
+Beschreibung
+10
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+1.3.8
+1.3.9
+1.4
+1.4.1
+1.4.1.1
+
+--- Page 10 ---
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Seilbruchsicherung (CBD)
+Die Seilbruchsicherung (CBD) ist eine optionale
+Sicherheitsvorrichtung. Im Falle eines Seilbruchs wird
+das Torblatt in weniger als 300 mm blockiert, um
+Beschädigungen zu verhindern.
+Laufschienensets
+Allgemeines
+Die Laufschienen tragen das Torblatt auf den Laufrollen
+und führen es nach oben. Die Wahl des entsprechenden
+Laufschienensets ist von verschiedenen Faktoren abhängig:
+Verfügbare lichte Höhe
+Torhöhe
+Fahrzeugart
+Mögliche Hindernisse durch Dachkonstruktion, Rohre
+oder Laufkranträger.
+Die nachfolgenden Laufschienen-Typen decken die meisten
+Anwendungsbereiche ab. Weitere Anwendungen sind auf
+Anfrage erhältlich.
+SL - Standardbeschlag
+Gebäudeart: Die meisten gängigen Industriegebäude.
+Vorteile: Optimal für allgemein genutzte Gebäude.
+Die Laufschienen für den Standardbeschlag verfügen über
+ein Federpaket direkt über dem Tor und sind die gängigste
+Lösung.
+SL - Standardbeschlag niedrig
+Gebäudeart: Niedrige Decken.
+Vorteile: Erreichung einer größeren lichten Torhöhe bei
+geringem Freiraum über Sturz.
+Das Laufschienenset für geringe Standardtorhubhöhen ist
+eine Variante desjenigen für geringe Torhubhöhen, bei der die
+Federbaugruppe direkt über dem Tor montiert wird.
+LL - Niedrigsturzbeschlag
+Gebäudeart: Niedrige Decken.
+Vorteile: Maximale lichte Höhe bei minimaler
+Raumhöhe.
+Wie Standardbeschlag, aber Federbaugruppe am Ende der
+waagerechten Laufschienen.
+Beschreibung
+11
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+1.4.1.2
+1.5
+1.5.1
+1.5.2
+1.5.3
+1.5.4
+
+--- Page 11 ---
+·
+·
+·
+·
+·
+·
+HL - Hebungsbeschlag
+Gebäudeart: Hohe Decken. Bei den Laufschienen für den
+Hebungsbeschlag befindet sich das Federpaket weit über
+dem Tor.
+Vorteile: Bei dieser Laufschienenart können hohe
+Fahrzeuge die Toröffnung passieren, ohne durch die
+waagerechten Laufschienen behindert zu werden.
+Sie wird eingesetzt, wenn über dem Tor viel Freiraum
+vorhanden ist und diese Bauweise für die betrieblichen
+Anforderungen und den Waren- bzw. Fahrzeugverkehr
+notwendig ist, z. B. hohe Fahrzeuge.
+HHL - Hebungsbeschlag mit
+Federbaugruppe am Ende der
+waagerechten Laufschienen
+Gebäudeart: Hohe Decken. Wird verwendet, wenn
+der Freiraum zwischen Decke und Unterkante der
+waagrechten Laufschienen begrenzt ist.
+Vorteile: Maximale Hebung bei minimaler Raumhöhe.
+Hebungshardware mit Federbaugruppe am Ende der
+waagerechten Laufschienen.
+VL - Vertikalbeschlag
+Gebäudeart: Sehr hohe Decken und großer Platzbedarf.
+Vorteile: Ermöglicht, dass hohe Fahrzeuge ohne
+Behinderungen durch das Tor fahren können.
+Wenn zwischen der Toröffnung und dem Dach ausreichend
+Freiraum ist, kann das Tor mit dieser Laufschienenart vertikal
+geöffnet werden.
+Beschreibung
+12
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+1.5.5
+1.5.6
+1.5.7
+
+--- Page 12 ---
+Spezielle Laufschienensets
+Das Crawford OH1042F Sektionaltor Laufschienenset kann individuell angepasst werden, so dass das Tor an Positionen
+eingebaut werden kann, die beinahe unmöglich erscheinen. Wenn das Tor sich den Platz mit Belüftungssystemen,
+Kranauslegern, etc. teilen muss, so können unsere Torspezialisten diese Probleme bei der Montage lösen. Beispiel:
+Inhalt
+13
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+1.5.8
+
+--- Page 13 ---
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Verfügbare Optionen
+Schlupftür mit 180 mm
+Schwelle
+Die Standardausführung mit 180 Schwellenhöhe mm ist so
+konzipiert, dass sie mit nahezu allen Toroptionen kombiniert
+werden kann. Sie kann jedoch nicht als Notausgang
+verwendet werden, da die Schwelle mit 180 mm zu hoch ist.
+Funktionen:
+900 mm lichte Durchgangsbreite
+Lichte Durchgangshöhe (ab Fußboden) 2.046 mm
+Öffnet immer nach außen, Öffnung um min. 90 Grad
+Links oder rechts anschlagend
+Dichtungen im Schlupftürrahmen reduzieren die
+Luftdurchlässigkeit.
+Integrierter Schlupftürschalter bei automatischem
+Betrieb
+Aluminium-Türgriff
+Es sind alle handelsüblichen Zylinderschlösser erhältlich:
+Euro, Keso. Standard: Euro-Zylinderschloss
+Hochwertiger Türschließer
+Panikschloss (optional)
+Min. LH 2.261 mm
+Konstruktion
+Diese Schlupftür verfügt über ein OH1042P Bodenfeld
+und Bodendichtung. In der Bodensektion wird eine
+Verstärkungsstrebe benötigt, um die Stabilität und den
+Windwiderstand des Tores zu gewährleisten.
+An der Schlupftür
+Neben der Schlupftür
+Außenansicht der Schwelle
+Verfügbare Optionen
+14
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+2
+2.1
+ 
+
+--- Page 14 ---
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Schlupftür mit niedriger
+Schwelle (30 mm)
+Die Schlupftür mit niedriger Schwelle wurde entwickelt,
+um ein bequemes Überqueren zu ermöglichen und die
+Stolpergefahr zu minimieren. Darüber hinaus muss das
+Torblatt durch das robuste Bodenabschlussprofil nicht mit
+einer Bodenverstärkung versehen werden.
+Funktionen:
+900 mm lichte Durchgangsbreite
+Lichter Durchgang Höhe (von Fußboden) 2.056 mm
+Öffnet immer nach außen, Öffnung um min. 90 Grad
+Links oder rechts anschlagend
+Dichtungen im Schlupftürrahmen reduzieren die
+Luftdurchlässigkeit.
+Integrierter Schlupftürschalter bei automatischem
+Betrieb
+Aluminium-Türgriff
+Es sind alle handelsüblichen Zylinderschlösser erhältlich:
+Euro, Keso. Standard: Euro-Zylinderschloss
+Hochwertiger Türschließer
+Panikschloss (optional)
+Min. LH 2.261 mm
+Konstruktion
+Die Schlupftür mit niedriger Schwelle ist für Tore mit
+einer vollständig umrahmten Bodensektion und Tore mit
+einer Paneel-Bodensektion erhältlich. Ein eigens dafür
+entworfenes robustes und breites Aluminiumprofil verleiht
+der Bodensektion ihre Stabilität. Das Profil ist gerippt und
+minimiert somit die Rutschgefahr, falls sich Regen oder
+Schnee auf dem Boden oder dem Profil befinden.
+An der Schlupftür
+Neben der Schlupftür
+Außenansicht der Schwelle
+Antriebsarten
+Die Schlupftür mit niedriger Schwelle ist für alle
+Antriebsarten erhältlich. Wenn das Tor über einen Impuls-AB-
+Taster verfügt, wird ein spezieller CDM9 mit 950 Steuerung
+mit einer Lichtschranke in den Laufschienen benötigt, die
+Personen oder Gegenstände in der Toröffnung während des
+Schließens erfasst.
+Verfügbare Optionen
+15
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+2.2
+ 
+
+--- Page 15 ---
+·
+·
+·
+·
+Festfelder
+Wenn die Gebäudeöffnung größer als das eingebaute Tor ist,
+kann der Platz um das Tor herum mit Festfeldern ausgefüllt
+werden. Sie sind als Ober- und Seitenfelder erhältlich.
+Festfelder sind in den gleichen Farben und Bauweisen
+erhältlich, wie das Torblatt.
+Der Einbau einer Schlupftür in ein Festfeld ist aus zwei
+Gründen sinvoll: Sicherheit und Senkung der Energiekosten.
+Sicherheit: Der Einbau einer Schlupftür in ein Festfeld
+neben dem Industrietor trennt den Fußgänger- vom
+Fahrzeugverkehr.
+Senkung der Energiekosten: Für häufigen Fußgängerverkehr
+muss nur eine kleine Öffnung geöffnet werden.
+Optionale Farben
+Rahmen
+Werkslackierung, alle RAL-Farben
+Füllungen
+Werkslackierung, alle RAL-Farben
+Bodenfeld
+Werkslackierung, alle RAL-Farben, nur außenseitig
+Schloss
+Zylinderschloss
+Das Zylinderschloss wird mit einem Schlüssel betätigt und
+bietet zusätzliche Sicherheit. Es wird innen montiert und
+kann mithilfe eines Schlüssels oder durch Drehen des Griffes
+geöffnet werden. Es kann entweder nur von innen oder von
+außen und innen zugänglich montiert werden.
+Verfügbare Optionen
+16
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+2.3
+2.4
+2.5
+2.5.1
+
+--- Page 16 ---
+Korrosionsschutzbeschläge
+Für den Einsatz unter rauen Bedingungen kann
+das Crawford OH1042F Sektionaltor mit einem Satz
+Korrosionsschutzbeschlägen ausgerüstet werden. Es sind drei
+Sätze für unterschiedliche Anforderungen erhältlich.
+Satz Corrosive C
+Rollenhalter
+Edelstahl
+Rollen
+Edelstahl
+Klemme
+Edelstahl
+Scharniere, Anschlussblech
+Kunststoff
+Schrauben
+Korrosionsschutz be-
+handelt
+Eckwinkel
+Pulverbeschichtet
+Torseile 3-5 mm
+Edelstahl
+Satz Corrosive A
+Alle Optionen im Satz Corrosive C sowie dazu:
+Endkappen
+Pulverbeschichtet
+Halterung obere Sektion
+Pulverbeschichtet
+Träger
+Pulverbeschichtet
+Laufschienen
+Pulverbeschichtet
+Puffer
+Pulverbeschichtet
+Halterungen des Sicherheitsseilzu-
+ges
+Pulverbeschichtet
+Schrauben/Bolzen
+Korrosionsschutz be-
+handelt
+Satz Corrosive Z
+Federn 95 mm oder 152 mm
+Galvanisch verzinkt
+Für nasse Umgebungen wie Autowaschanlagen empfohlen.
+Die Korrosionsschutzbeschlag-Sätze sind für die
+Laufschienenarten SL, SLL, HL, HHL, LL und VLB erhältlich.
+VLA und VLT sind nur in Satz C erhältlich.
+Das maximale Torgewicht für Korrosionsschutzbeschläge
+beträgt 410 kg, die maximale lichte Breite 8000 mm.
+Aus technischen Gründen sind einige Teile nicht in
+korrosionsbeständiger Ausführung erhältlich.
+Kollisionsschutz
+Laufschienen-Anfahrschutz-Kit
+Der Laufschienenschutz dient zum Schutz der Laufschienen,
+wenn diese versehentlich von Fahrzeugen getroffen werden.
+Das Kit enthält zwei Poller und Befestigungselemente. Die
+Poller sind mit einem UV-Schutzlack pulverbeschichtet und
+die Oberseite kann entfernt werden, um den Poller mit
+Sand oder Beton zu füllen. Die Poller sind 1000 mm
+hoch mit einem Durchmesser und einer Dicke von 159 ×
+3 mm. Die Platte misst 200 mm im Quadrat. Der Abstand
+zwischen dem Tor (oder einem Teil davon) und den Pollern
+sollte mindestens 500 mm betragen, damit keine Personen
+zwischen den Pollern und dem Tor eingeklemmt werden
+können.
+Verstärktes Bodenprofil
+Ein spezielles Aluminium-Bodenprofil mit integrierter
+Verstärkung ist erhältlich, wenn ein zusätzlicher
+Kollisionsschutz erforderlich ist.
+Verfügbare Optionen
+17
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+2.6
+2.7
+2.7.1
+2.7.2
+
+--- Page 17 ---
+·
+Kenndaten
+Fenster und Schlupftür
+Anzahl der Fensterscheiben (mit
+Schlupftür)
+Für Fenster wird die lichte Breite in feste Abschnitte
+unterteilt. Die Anzahl der Fenster hängt von der lichten Breite
+des Tores ab.
+Lichte Breite
+Anzahl Fensterscheiben
+2050 - 4050 mm
+3
+4051 - 5050 mm
+4
+5051 - 6050 mm
+5
+Anzahl der Fenster (ohne Schlupftür)
+Lichte Breite
+Anzahl Fensterscheiben
+2050 - 3050 mm
+2
+3051 - 4550 mm
+3
+4551 - 6050 mm
+4
+6051 - 7250 mm
+5
+Schlupftür mit niedriger Schwelle
+Öffnungsgrößen Schlupftür
+Breite:
+900 mm
+Höhe ab Boden:
+Variabel
+Position Schlupftür*
+Lichte Breite
+Scheibe Nr.
+2050 - 4050 mm
+2
+4051 - 5050 mm
+2 oder 3
+5051 - 6050 mm
+3
+* Position und Öffnungsrichtung der Schlupftür hängen von
+der Gesamtbreite des Tores und dem Glasgewicht ab. Für
+detaillierte Informationen wenden Sie sich an das örtliche
+ASSA ABLOY Vertriebsteam.
+Zulässige Größen für Sektionaltore
+Min. LB
+2050 mm
+Max. LB
+6050 mm
+Min. LH
+2.172 mm
+Max. LH
+6050 mm
+Voraussetzungen
+Wenn das Tor über einen Impuls-AB-Taster oder
+eine automatische Schließfunktion verfügt, wird eine
+Lichtschranke benötigt, die Personen oder Gegenstände
+in der Toröffnung beim Schließvorgang erfasst.
+Spezifikationen
+Schwellenhöhe:
+Ca. 30 mm inkl. Bodendich-
+tung
+Schloss:
+Je nach Markt
+Türschließer:
+Gleitschienentürschließer
+Schlupftür Standardschwelle (180
+mm)
+Öffnungsgrößen Schlupftür
+Breite:
+900 mm
+Höhe ab Boden:
+Variabel
+Position Schlupftür*
+Lichte Breite
+Scheibe Nr.
+2050 - 4050 mm
+2
+4051 - 5050 mm
+2 oder 3
+5051 - 6050 mm
+3
+* Position und Öffnungsrichtung der Schlupftür hängen von
+der Gesamtbreite des Tores und dem Glasgewicht ab. Für
+detaillierte Informationen wenden Sie sich bitte an das
+örtliche ASSA ABLOY Vertriebsteam.
+Zulässige Größen für Sektionaltore
+Min. zulässige LB
+2050 mm
+Max. zulässige LB
+6050 mm
+Min. zulässige LH
+2244 mm
+Max. zulässige LH
+6050 mm
+Spezifikationen
+Schwellenhöhe:
+180 mm inkl. Bodendichtung
+Schloss:
+Marktabhängig
+Kenndaten
+18
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+3
+3.1
+3.1.1
+3.1.2
+3.1.3
+3.1.4
+ 
+
+--- Page 18 ---
+Antriebssystem
+Antriebsarten
+Alle Crawford OH1042F Sektionaltore können manuell
+geöffnet und geschlossen werden. Sie sind außerdem für den
+elektrischen Betrieb vorbereitet. Elektrisch betriebene Tore
+können von Hand oder vollautomatisch gesteuert werden.
+Verkehrsfrequenz, Klimaanforderungen und Torblattgewicht
+spielen bei der Auswahl des optimalen Steuersystems eine
+Schlüsselrolle.
+Zugseil
+Das Crawford OH1042F Sektionaltor kann manuell über ein
+Zugseil betätigt werden. Das Zugseil ist direkt mit dem
+Torblatt verbunden.
+Haspelkette
+Bei schwereren Toren erleichtert eine Haspelkette den
+Torbetrieb.
+T-Haspelkette
+T-Haspelkette: Zahnrad-Kettenantrieb (Übersetzung 1:4), der
+direkt mit der Welle verbunden ist. Empfohlen für Tore bis zu
+250 kg (für alle Wellenarten).
+U-Haspelkette
+U-Haspelkette: Indirekte Kettenübertragung (Übersetzung
+1:3). Empfohlen für Tore von 250 kg bis 400 kg (für alle
+Wellenarten).
+Elektrischer Betrieb
+Das Crawford OH1042F Sektionaltor kann mit einem
+elektrischen Antriebssystem geliefert oder nachgerüstet
+werden (verpflichtend bei Toren ab  400  kg). Die
+elektrische Steuerung ermöglicht den Zugriff auf alle
+Zugangs- und Automatisierungsfunktionen, die eine Reihe
+von Anforderungen bezüglich Verkehrsart und -frequenz,
+Torgewicht und Temperatursteuerung erfüllen.
+Antriebssystem
+19
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+4
+4.1
+4.2
+4.3
+4.4
+
+--- Page 19 ---
+·
+·
+·
+·
+·
+·
+CDM9 Antrieb - 950
+Torsteuerungen
+Der CDM9 Antrieb ist eine Kombination des CDM9 Antriebs
+mit einer 950 Torsteuerung. Das Standardmodell CDM9 ist
+für Tore bis 400 kg erhältlich. Das Modell CDM9 HD ist für
+Tore bis 800 kg erhältlich. Das Modell CDM9 2H mit zwei
+Geschwindigkeiten ist für Tore bis 250 kg erhältlich.
+CDM9 Antrieb
+Ein Hauptteil des Systems ist der Antrieb: ein Elektromotor,
+der die Ausgleichswelle mit den Seiltrommeln und den
+Torsionsfedern antreibt. Er kann auch an bereits installierten
+Toren nachgerüstet werden. Der Motor CDM9 wird direkt auf
+die Ausgleichswelle montiert und erfordert keine spezielle
+Wandverstärkung.
+Bei Toren ab 550 kg sollte der CDM9 mit einem integrierten
+Kettenzug (Übertragung: 1:3,5) ausgestattet werden:
+Wichtigste Funktionen:
+Ruhig und leise
+Sanfter Start/Stopp
+Passt auf alle Laufschienen und Wellen
+Lebensdauer: 84000 - 300000 Torzyklen (je nach
+Gewicht und Temperatur) z. B.:
+Temp. 0 °C - +40 °C / Gewicht 250 kg =
+300000 Lastwechsel
+Temp. -20 °C - +60 °C / Gewicht 400 kg =
+84000 Lastwechsel
+CDM9
+CDM9 HD
+CDM9 2H
+Stromversorgung: +/- 10 %
+230 V AC
+1-phasig 50/60 Hz
+230 V AC
+1-phasig 50/60 Hz
+230 V AC
+1-phasig 50/60 Hz
+Leistung:
+0,37 kW
+0,6 kW
+0,37 kW
+Schutzklasse:
+IP65,
+mit Steckverbindung IP44
+IP65,
+mit Steckverbindung IP44
+IP65,
+mit Steckverbindung IP44
+Zulässiges Torblattgewicht,
+max.:
+400 kg
+800 kg
+250 kg
+Betriebstemperaturbereich:
+-20 °C bis +55 °C*
+-20 °C bis +55 °C*
+-20 °C bis +55 °C*
+Betriebsfaktor:
+ED = 30 %
+S3 10 min. intermittierend
+ED = 30 %
+S3 10 min. intermittierend
+ED = 30 %
+S3 10 min. intermittierend
+Montagevorbereitungen:
+-
+Für die Wandmontage wird ein
+zusätzl. Montagewinkel mit >
+500 N / Befestigungspunkt benö-
+tigt.
+-
+* Bei niedrigen Temperaturen empfiehlt es sich, die ersten Zyklen mit verringerter Geschwindigkeit auszuführen, um die
+Lebensdauer des Antriebs zu verlängern. Kann mit einem Heizelement für einen Arbeitsbereich bis -30 °C ausgestattet
+werden.
+Kenndaten
+20
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+4.5
+4.5.1
+
+--- Page 20 ---
+·
+Hinweise zur Auswahl der
+Antriebsart
+Torgröße
+m2
+Öffnungen/Tag
+1-5
+Tag
+5-10
+Tag
+10-15
+Tag
+>25
+Tag
+0 – 10
+ / 
+ / 
+ / 
+ / 
+10 – 20
+ / 
+ / 
+ / 
+> 20 - 42
+ / 
+ / 
+> 42*
+ / 
+ / 
+ Handbetrieb 
+ Elektrischer Betrieb
+ Automatischer Betrieb
+Auswahlhilfe für Torantrieb
+* Kundenservice Landskrona
+Lastwechsel/Tag
+A. Über 300 Tage / Jahr
+B. Über 220 Tage / Jahr
+Durchschnittliches Torblattgewicht
+Stahltor: 13 kg/m2
+Aluminiumtor: 10 kg/m2
+950 Torsteuerung
+Die Torsteuerung 950 ist die fortschrittlichste Steuerung,
+die einmal oder auch mehrfach mit Zubehör aus
+dem kompletten Angebot an Automatisierungssystemen
+nachgerüstet werden kann. Ein Automatiksystem ermöglicht
+den Torbetrieb durch Sensoren oder Fernsteuerung.
+Diese Steuereinheit enthält ein dreistelliges Diagnose-Display,
+welches eine effiziente Fehlerbehebung ermöglicht und
+die Anzahl der Torzyklen anzeigt. In Kombination mit
+der Wartungsanzeige ermöglicht diese Zusatzfunktion eine
+bessere Wartungsplanung für Nutzer, bei denen das Tor einen
+wesentlichen Baustein der internen Logistik darstellt.
+Abmessungen: 180 × 380 × 120 mm (B x H x T)
+Antriebssystem
+21
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+4.6
+4.7
+4.8
+ 
+
+--- Page 21 ---
+Zugang und
+Automatiksysteme
+ASSA ABLOY bietet eine Reihe von Funktionen an, die eine
+erweiterte Öffnungs- und Sicherheitskontrolle ermöglichen.
+Informationen dazu, welche Funktionen für welche Modelle
+möglich sind, finden Sie im Produktdatenblatt.
+Basissteuerungsfunktionen
+Verriegelung
+Entwickelt für Klimasteuerung
+oder Sicherheit. Wenn Tor A ge-
+öffnet ist, kann Tor B nicht geöff-
+net werden. Wenn Tor B geöffnet
+ist, kann Tor A nicht geöffnet wer-
+den. Ein so gesperrtes Tor kann ei-
+nen Öffnungsbefehl speichern, so-
+fern über einen Mikroschalter aus-
+gewählt.
+Reduzierte Öffnung
+Wenn es unnötig oder nicht er-
+wünscht ist, ein Tor ganz zu öffnen,
+kann das Tor über einen Zusatz-
+schalter auf eine vorprogrammier-
+te reduzierte Öffnungshöhe geöff-
+net werden.
+Vorgerüsteter Mikroschalter in
+Steuergerät zu aktivieren.
+Externe Steuerfunktionen
+Externes Drucktastergehäuse
+Wenn die Hauptsteuerung weit
+von der Toröffnung entfernt mon-
+tiert werden muss, wird eine ext-
+ra Steuerung außen oder innen in
+der Nähe des Tores montiert.
+Installation an der Innen- oder Au-
+ßenwand neben dem Tor.
+Zugtaster
+Ein Zugseilschalter über der Tor-
+öffnung kann beispielsweise von
+einem Gabelstapler aus bedient
+werden. Durch das Ziehen des Sei-
+les wird ein geschlossenes Tor ge-
+öffnet und ein geöffnetes Tor ge-
+schlossen.
+Installation an der Innenwand
+über dem Tor.
+Fernsteuerung
+Ein Handsender erlaubt die Tor-
+bedienung aus einem Fahrzeug
+heraus oder von einem beliebi-
+gen Standort im Umkreis von
+50‑100 m um Empfänger und An-
+tenne am Tor. Zum Schließen kann
+das Tor mit einer Lichtschranke
+ausgerüstet werden.
+Empfänger in Steuerung installiert,
+Antenne an der Wand neben dem
+Tor.
+Automatische Steuerungsfunktionen
+Magnetschleife
+Ein Sensor im Boden erfasst me-
+tallische Gegenstände (in der Re-
+gel Gabelstapler, Hubwagen) und
+öffnet das Tor automatisch. Diese
+Lösung ist ideal für hohe Verkehrs-
+aufkommen.
+Montage außen, innen oder an
+beiden Torseiten im Boden.
+Radar
+Ein Infrarotsensor über dem Tor
+erfasst Objekte (Personen, Fahr-
+zeuge) innerhalb eines festgeleg-
+ten Abstandes vom Tor, und die-
+ses öffnet sich automatisch. Die-
+se Lösung ist ideal für hohes Fahr-
+zeug- und Fußgängerverkehrsauf-
+kommen. Oft in Kombination mit
+automatischer Schließung.
+Installation an der Innen- oder Au-
+ßenwand neben dem Tor.
+Fotozelle Tor öffnen
+Ein Satz Fotozellen an den Pfosten
+auf beiden Torseiten. Wenn eine
+Person oder ein Fahrzeug sich zwi-
+schen den Fotozellen bewegt, wird
+der Strahl unterbrochen und das
+Tor öffnet sich.
+Fotozellen an den Pfosten, nicht in
+der Nähe des Tores montiert.
+Antriebssystem
+22
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+4.9
+4.9.1
+4.9.1.1
+4.9.1.2
+4.9.2
+4.9.2.1
+4.9.2.2
+4.9.2.3
+4.9.3
+4.9.3.1
+4.9.3.2
+4.9.3.3
+
+--- Page 22 ---
+Automatisches Schließen
+Programmierbare Zeitschaltuhr,
+die das Tor nach einer bestimmten
+Zeit schließt. Die Zeit läuft entwe-
+der ab der vollständig geöffneten
+Position oder ab dem Passieren
+der Lichtschranke.
+Einstellbare Mikroschalter in der
+Steuerung.
+Sicherheitsfunktionen
+Sicherheitsleiste
+Alle Tore, die über eine Impuls-
+Schließfunktion oder eine Schließ-
+automatik verfügen, sind stan-
+dardmäßig mit einer Sicherheits-
+leiste ausgestattet. Der pneumati-
+sche Sensor in der Bodendichtung
+erfasst jeden Gegenstand unter ei-
+nem sich schließenden Tor und re-
+versiert das Tor.
+Montage in der Bodendichtung.
+Sicherheitsfotozellen 1-Kanal
+In der Toröffnung wird ein Foto-
+zellen-Sender und -Empfänger in-
+stalliert. Wird der Strahl der Licht-
+schranke während des Schließens
+unterbrochen, hält das Tor an und
+öffnet sich wieder vollständig.
+Montage in der Toröffnung.
+Sicherheitsfotozellen 2-Kanal
+Zwei Sätze Lichtschranken-Sender
+und -Empfänger sind in der Tor-
+öffnung installiert. Wenn mindes-
+tens eine Lichtschranke während
+des Schließens unterbrochen wird,
+hält das Tor an und öffnet sich wie-
+der vollständig.
+Montage in der Toröffnung.
+Warnlampen - Rot
+Zwei rote Warnleuchten informie-
+ren über die aktuelle Toraktivität.
+Blinklicht vor und während Tor-
+bewegungen. Optional: Dauerlicht
+vor und während Torbewegungen.
+Installation an der Innen- und Au-
+ßenwand neben dem Tor.
+Warnlampen - Grün
+Ein oder zwei grüne Warnleuchten
+zeigen die Öffnungsposition durch
+dauerhaftes Leuchten an.
+Installation an der Innen- und/
+oder Außenwand neben dem Tor.
+Ampeln - Rot & Grün
+Wenn der Verkehr durch ein Tor
+geregelt werden muss, können
+zwei rot-grüne Ampeln montiert
+werden, um die Verkehrsrichtung
+anzuzeigen. Auf der Seite, auf der
+zuerst ein an das Tor heranfahren-
+des Fahrzeug erfasst wird, leuchtet
+die grüne Ampel auf. Auf der ande-
+ren Seite leuchtet die rote Ampel.
+Der von dieser Seite heranfahren-
+de Verkehr muss den anderen Vor-
+fahrt gewähren. In der Regel bei-
+spielsweise in Parkhäusern.
+Installation an der Innen- und Au-
+ßenwand neben dem Tor.
+Weitere Funktionen
+UPS / USV Stützbatterie
+Bei erhöhtem Stromausfallrisiko
+oder zur Vermeidung von Strom-
+ausfällen, kann das Tor mit ei-
+ner unterbrechungsfreien Strom-
+versorgung (USV) ausgestattet
+werden, die Energie für 5 Last-
+wechsel liefert.
+Installation an der Innenwand ne-
+ben dem Tor.
+Antriebssystem
+23
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+4.9.3.4
+4.9.4
+4.9.4.1
+4.9.4.2
+4.9.4.3
+4.9.4.4
+4.9.4.5
+4.9.4.6
+4.9.5
+4.9.5.1
+
+--- Page 23 ---
+Relaiskasten
+Ein geschlossener Anschlusskasten
+ermöglicht es, externe Elektroge-
+räte anzuschließen.
+Antriebssystem
+24
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+4.9.5.2
+
+--- Page 24 ---
+CEN-Konformität
+Erwartete Lebensdauer
+Tor: 200000 Lastwechsel oder 10 Jahre bei Durchführung des Wartungs-/Austauschprogramms.
+Federn: 20000 Lastwechsel; optional max. 100000, abhängig von der Torkonfiguration.
+Widerstand gegen Windlast
+DIN EN12424
+Ohne Schlupftür
+Testergebnis
+Klasse 3
+Klasse
+Druck Pa (N/m2)
+Spezifikation
+0
+-
+Keine Leistung festgelegt
+1
+300
+2
+450
+3
+700
+4
+1000
+5
+> 1000
+Ausnahme: Vereinbarung zwischen Hersteller und Zulieferer
+Widerstand gegen eindringendes Wasser
+DIN EN12425
+Ohne Schlupftür
+Testergebnis
+Klasse 3
+Klasse
+Druck Pa (N/m2)
+Spezifikation
+0
+-
+Keine Leistung festgelegt
+1
+30
+15 Minuten Spritzwasser
+2
+50
+20 Minuten Spritzwasser
+3
+> 50
+Ausnahme: Vereinbarung zwischen Hersteller und Zulieferer
+Luftdurchlässigkeit
+DIN EN 12426
+Ohne Schlupftür
+Testergebnis
+Klasse 3
+Klasse
+Luftdurchlässigkeit dp bei einem Druck von 50 Pa (m3/(m2∙h))
+0
+-
+1
+24
+2
+12
+3
+6
+4
+3
+5
+1,5
+6
+Ausnahme: Vereinbarung zwischen Hersteller und Zulieferer
+CEN-Konformität
+25
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+5
+5.1
+5.2
+5.3
+5.4
+
+--- Page 25 ---
+Wärmedurchgang
+DIN EN12428
+Dreifache Acrylglasscheibe
+Doppelte Acrylglasscheibe
+Einfache Acrylglasscheibe
+Wärmedurchgang
+3,1W/(m2∙K)
+3,6W/(m2∙K)
+6,2W/(m2∙K)
+(Torfläche 5.000 x 5.000 mm, keine Schlupftür)
+Schallschutz
+ISO 10140-2
+Paneel mit 2 x 2,8 mm Acrylglas
+Schallschutz *
+R - 24 dB
+* Torgröße 4000 x 2500 mm (Abweichungen bei anderen Größen möglich)
+Betriebskräfte und sicheres Öffnen
+DIN EN12453 & DIN
+EN12604
+Quetschkraft N
+Quetschkraft N
+Quetschkraft N
+Öffnungsspalt mm
+200 mm von der rechten Sei-
+tengrenze von außen
+In der Mitte der Toröffnung
+200 mm von der linken Sei-
+tengrenze von außen
+50 mm
+ok
+ok
+ok
+300 mm
+ok
+ok
+ok
+Die Schließkraft ist die Kraft, die zur Aktivierung der Sicherheitsleiste benötigt wird. Die maximal zulässige Kraft ist gemäß
+DIN EN12453 "Nutzungssicherheit kraftbetätigter Tore" 400 N innerhalb von 0,75 Sek. Bei Standard-Lichtgittern liegt keine
+Schließkraft vor.
+CEN-Konformität
+26
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+5.5
+5.6
+5.7
+
+--- Page 26 ---
+·
+1.
+2.
+3.
+Gebäude- und Raumbedarfsmaße
+Bauseitige Vorbereitungen
+Montagevorbereitungen
+Das Crawford OH1042F Sektionaltor wird zerlegt geliefert und vor Ort montiert. Alle erforderlichen Montagemittel sind
+im Lieferumfang enthalten. Wir bieten für jeden Laufschienentyp spezielle Montage-Sets zur Anbringung des Tores in der
+Gebäudefassade.
+Stahl
+Holz
+Ziegel & Beton
+Wir empfehlen die Installation der folgenden Türen auf einem Rahmen (z. B. 80×40×2mm Rohre; 100×40×2mm für 3″
+Schienen).
+Türen DLW ≥ 4050mm (Aluminium oder mit dunkler Außenfarbe, häufig zur Sonne ausgerichtet). Die dunkle
+Außenfarbregel gilt nur für HL- und VL-Hardware.
+Benötigter Freiraum
+DLH
+= Lichte Höhe
+Tatsächliche Durchfahrtshöhe
+DLW
+= Lichte Breite
+Tatsächliche Durchfahrtsbreite
+D
+= Tiefe
+Der Abstand zwischen der Innenseite der Mauer und dem Ende der waagerech-
+ten Laufschienenkonstruktion
+h
+= Zusätzliche Höhe
+Zusätzlich zur lichten Höhe benötigter Freiraum.
+SL
+= Seitlicher Freiraum links
+Zusätzlich zur lichten Breite benötigter Freiraum.
+SR
+= Seitlicher Freiraum rechts
+Zusätzlich zur lichten Breite benötigter Freiraum.
+Der grau markierte Bereich in der Abbildung zeigt den für die Torbewegung benötigten Platz. Der für Tore mit Elektroantrieb
+zusätzlich benötigte Freiraum wird in den Antriebsspezifikationen angegeben. Der für Schlupftüren zusätzlich benötigte Platz
+wird in den Schlupftürspezifikationen angegeben.
+Gebäude- und Raumbedarfsmaße
+27
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+6
+6.1
+6.1.1
+6.2
+
+--- Page 27 ---
+Benötigter Freiraum SL
+h
+485 mm ( LH ≤ 4500 mm)
+510 mm ( LH > 4500 mm)
+575 mm (mit Mittelantrieb)
+SL/SR
+132 mm manuell,
+212 mm Haspelkette-D/T, 278 mm Haspelkette-U,
+270 mm Antrieb, 310 mm Antrieb+Haspelkette
+(mit äußerem Stützlager + 45 mm)
+D
+LH + 600 mm
+Einzelheiten siehe Zeichnungen zu den bauseitigen Vorbereitungen
+Seiten- und obenansicht
+Gebäude- und Raumbedarfsmaße
+28
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+6.2.1
+
+--- Page 28 ---
+Benötigter Platz SLL
+h
+400 mm
+475 mm (mit Mittelantrieb)
+SL/SR
+132 mm manuell,
+212 mm Haspelkette-D/T, 278 mm Haspelkette-U,
+270 mm Antrieb, 310 mm Antrieb+Haspelkette
+(mit äußerem Stützlager + 45 mm)
+D
+LH + 900 mm
+LB / LH
+≥ 5500 mm ≥ 4250 mm
+Einzelheiten siehe Zeichnungen zu den bauseitigen Vorbereitungen
+Seiten- und obenansicht
+Gebäude- und Raumbedarfsmaße
+29
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+6.2.2
+
+--- Page 29 ---
+Benötigter Freiraum HL
+HL
+HL mit Balken
+h
+HL+320 mm (HL ≤ 3321 mm)
+HL+370 mm (HL > 3321 mm)
+HL +400 mm (mit Mittelantrieb)
+HL + 220 mm
+SL/SR
+132 mm manuell,
+212 mm Haspelkette-D/T,
+278 mm Haspelkette-U,
+270 mm Antrieb,
+310 mm Antrieb+Haspelkette
+(mit äußerem Stützlager + 45 mm)
+106 mm manuell,
+212 mm Haspelkette-D/T,
+278 mm Haspelkette-U,
+312 mm Antrieb,
+352 mm Antrieb+Haspelkette
+(mit äußerem Stützlager + 64 mm)
+D
+LH - HL + 950 mm
+LH - HL + 950 mm
+Einzelheiten siehe Zeichnungen zu den bauseitigen Vorbereitungen
+Seiten- und obenansicht
+Gebäude- und Raumbedarfsmaße
+30
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+6.2.3
+
+--- Page 30 ---
+Benötigter Freiraum HHL
+h
+HL+260 mm (HL ≤ 3321 mm), HL+285 mm (HL > 3321 mm)
+SL/SR
+132 mm manuell,
+228 mm Haspelkette-D/T, 278 mm Haspelkette-U,
+304 mm Antrieb, 344 mm Antrieb+Haspelkette
+(mit äußerem Stützlager + 45 mm)
+D
+Manuell: LH - HL + 1200 mm
+elektrisch LH - HL + 1300 mm
+Einzelheiten siehe Zeichnungen zu den bauseitigen Vorbereitungen.
+Seiten- und obenansicht
+Gebäude- und Raumbedarfsmaße
+31
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+6.2.4
+
+--- Page 31 ---
+Benötigter Freiraum LL
+h
+265 mm (≤ 250 kg ohne Schlupftür)
+300 mm (> 250 kg oder Schlupftür oder DLW > 6000 mm)
+SL/SR
+132 mm manuell,
+228 mm Haspelkette-D/T, 278 mm Haspelkette-U,
+304 mm Antrieb, 344 mm Antrieb+Haspelkette
+(mit äußerem Stützlager + 45 mm)
+D
+Manuell: LH + 1200 mm
+elektrisch LH + 1250 mm
+Einzelheiten siehe Zeichnungen zu den bauseitigen Vorbereitungen
+*** Nur für Schlupftür mit niedriger Schwelle
+Seiten- und obenansicht
+Gebäude- und Raumbedarfsmaße
+32
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+6.2.5
+
+--- Page 32 ---
+·
+·
+Benötigter Freiraum VL
+h
+LH + 365 mm
+SL/SR
+110 mm manuell,
+216 mm Haspelkette-D/T, 278 mm Haspelkette-U,
+312 mm Antrieb, 352 mm Antrieb+Haspelkette
+(mit äußerem Stützlager + 64 mm)
+D
+VLA = 500 mm
+VLT = 525 mm (manuell + Antrieb links/rechts); 625 mm (Antrieb mittig)
+VLA = 525 mm
+Einzelheiten siehe Zeichnungen zu den bauseitigen Vorbereitungen
+VL Tore: LB ≤ 3000 mm und LH ≤ 3350 = VLA = kein Träger montiert
+VL Tore: LB  >3000 mm oder LH >3350 = VLT = Montage mit Balken für die Federwelle
+Seiten- und obenansicht
+Gebäude- und Raumbedarfsmaße
+33
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+6.2.6
+
+--- Page 33 ---
+Service, maßgeschneidert für Ihren
+Bedarf
+Das Entwerfen und Anpassen Ihrer Sektionaltore ist nur der Anfang. Die bedeutungsvollsten Beziehungen sind die, die für die
+Ewigkeit gemacht sind. Wir bleiben auch lange nach der Installation an Ihrer Seite, mit Servicevereinbarungen, die speziell
+dafür entwickelt wurden, dass Ihre Crawford OH1042F die Leistung erbringt, die Sie erwarten und die Sie verdienen.
+Um die beste Servicevereinbarung für Sie auszuwählen, legen wir zunächst fest, welche Priorität Sie für Ihre
+Sektionaltore haben. Wünschen Sie nur eine vorbeugende Wartung oder die Möglichkeit, die Leistung vollständig zu
+optimieren? Gemeinsam können wir Ihre eigene Servicevereinbarung auf Sie zuschneiden.
+Für welche Vereinbarung Sie sich auch entscheiden, eines ist sicher: Sie sind immer in guten Händen und werden
+rundum versorgt, jederzeit und überall.
+ 
+Mit ASSA ABLOY Maintain können Sie sich auf Ihr Kerngeschäft konzentrieren. Wir bieten
+vorbeugende Wartung und Sicherheitsprüfungen, damit Ihre Eingangslösungen immer den
+neuesten Sicherheitsanforderungen, lokalen Vorschriften und Betriebsrichtlinien entsprechen.
+Sie können sich auch für den Zugriff auf unsere digitalen vernetzten Lösungen entscheiden, mit
+denen Sie die Sektionaltore und die Wartungsanforderungen proaktiv überwachen und steuern
+können.
+Sie können den Status, den Systemzustand und die Serviceanforderungen Ihrer Crawford
+OH1042F überwachen – alles in Echtzeit. Sie können die Leistung des Systems auch aus der Ferne
+überwachen und erhalten personalisierte Benachrichtigungen über Fehler und Warnungen.
+ 
+Mit ASSA ABLOY Optimize übernehmen wir die volle Kontrolle und Verantwortung für Ihre
+Anlagen, sodass Sie sich keine Sorgen um Ihre Sektionaltore machen müssen.
+Zusätzlich zu den von ASSA ABLOY Maintain angebotenen vorbeugenden Wartungen und
+Sicherheitsüberprüfungen decken wir auch alle Instandsetzungsarbeiten und Ersatzteile* ab, was
+stabile Wartungskosten und eine vereinfachte Verwaltung gewährleistet.
+Dazu gehören auch digitale Lösungen, die es uns ermöglichen, Ihre Sektionaltore sicher
+zu überwachen und auf der Grundlage der Echtzeitdaten geplante Wartungsarbeiten oder
+Instandsetzungen durchzuführen, bevor sie zu störenden Notreparaturen werden.
+Diese Daten ermöglichen es uns auch, Fehler zu lokalisieren und Sie zwecks Fehlerbehebung
+aus der Ferne zu kontaktieren. Wenn wir die Entsendung eines Servicetechnikers vermeiden
+können, ist dies für beide Seiten kosten- und zeiteffizient und trägt außerdem dazu bei, unseren
+CO2-Fußabdruck zu verringern.
+In Fällen, in denen wir keine Fehlerbehebung aus der Ferne durchführen können, stellen wir
+eine schnelle Reaktion sicher und schicken einen unserer erfahrenen Service-Techniker mit den
+richtigen Werkzeugen, Ressourcen und Teilen, um das spezifische Problem zu beheben – und das
+möglicherweise direkt beim ersten Mal.
+* ausgenommen sind fehlerhafte Nutzung oder Kollisionen
+Nutzen Sie unsere spezielle Service-Hotline, die rund um die Uhr besetzt ist, für alle Ihre Serviceanfragen. Von dort aus können
+wir Ihre eigene Servicevereinbarung gemeinsam auf Ihre Bedürfnisse anpassen.
+Lesen Sie mehr über ASSA ABLOY Entrance Systems auf www.assaabloyentrance.com.
+Service, maßgeschneidert für Ihren Bedarf
+34
+Produktdatenblatt
+Sektionaltor
+Crawford OH1042F
+7

@@ -1,0 +1,2684 @@
+
+--- Page 1 ---
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 2 ---
+1
+1.1
+1.2
+1.3
+1.4
+1.5
+2
+2.1
+2.1.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.7.1
+2.7.2
+2.8
+3
+3.1
+3.1.1
+3.2
+3.3
+3.4
+3.5
+3.6
+4
+4.1
+4.2
+4.3
+4.3.1
+4.3.2
+4.3.3
+4.3.4
+4.3.5
+4.3.6
+5
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.7.1
+5.7.2
+5.8
+5.8.1
+5.8.2
+5.8.3
+5.8.4
+5.9
+5.9.1
+5.9.2
+5.9.3
+5.9.4
+5.10
+Inhalt
+Urheberrecht und Haftungsausschluss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+Einleitung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+Andere zutreffende Unterlagen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+Konformitätserklärung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+Änderungsvorbehalte und Gültigkeit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+Lagerung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+Zielgruppe. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+Sicherheit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Allgemeine Anweisungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Warnungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Allgemeine Sicherheitshinweise. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+Schutzausrüstung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+Sorgfaltspflicht des Bedieners/Benutzers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+Bestimmungsgemäße Verwendung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+Umgebungsbedingungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Sicherheitsfunktionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Elektrische Sicherheitseinrichtungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Zusätzliche Sicherheitssysteme, Sensoren. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Verbleibende risiken. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Produktbeschreibung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Betrieb und Design. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Sicherheitssysteme. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Torkomponenten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Steuerungssystem. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+Antrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+Typenschild (beispielhafte Darstellung). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+Technische Daten RP400 (2611). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+Bedienung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Sicherheit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Bedienung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Fehlerbehebung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Tor öffnet oder schließt selbsttätig. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Motor reagiert nicht auf Befehle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+Behang rollt schief auf. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+Das Tor funktioniert nicht. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+Tor schließt nicht. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+Tor schließt erst beim nächsten Impuls. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+Montage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Überprüfung der Lieferung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Vorbereitungen für die Montage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Überblick. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Lieferung von Modellen ohne Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Lieferung von Modellen mit Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+Vorbereitungen für die Montage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+Tormontage, Anlagen mit Kettenantrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+Kettenantrieb, Montage auf dem Boden. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+Montage obere Laufrolle, Anlagen mit Kettenantrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+Tormontage, Anlagen ohne Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+Montage obere Laufrolle, ohne Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+Motorbaugruppe (kein Kettenantrieb, kein Varioantrieb). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31
+Ausgleichsanschluss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
+MCC (7110)/MCC. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  33
+Tormontage, Anlagen mit Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  34
+Montage der Stützpfosten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  34
+Montage der Seitenrahmen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  36
+Baugruppe Distanzprofil. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  38
+Drehmomentstütze. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  42
+Bodenträger. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  47
+3
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 3 ---
+5.10.1
+5.10.2
+5.10.3
+5.11
+5.12
+5.12.1
+5.12.2
+5.12.3
+5.12.4
+5.13
+5.13.1
+5.13.2
+5.13.3
+5.13.4
+5.13.5
+5.14
+6
+7
+7.1
+7.2
+7.2.1
+7.2.2
+7.2.3
+7.3
+7.4
+7.4.1
+7.4.2
+7.5
+8
+8.1
+8.2
+8.3
+8.4
+8.5
+8.5.1
+8.5.2
+8.6
+8.6.1
+8.7
+8.7.1
+8.7.2
+8.7.3
+8.7.4
+8.7.5
+8.7.6
+8.7.7
+8.7.8
+8.7.9
+8.7.10
+8.7.11
+8.7.12
+8.7.13
+8.8
+8.8.1
+8.8.2
+8.8.3
+9
+Bodenträger, Ausführung A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  47
+Bodenträger, Ausführung B. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  49
+Sicherheit des Bodenträgers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  51
+Endschalter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  52
+Sicherheitsschalter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  54
+Sicherheitsschalter Schmersal Typ 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  55
+Sicherheitsschalter Telemechanik. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  56
+Sicherheitsschalter Allen Bradley. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  57
+Sicherheitsschalter Schmersal Typ 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  59
+Verkleidungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  60
+Montage Abdeckung, ohne Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  60
+Montage Abdeckung, Kettenantrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  63
+Montage Abdeckung, mit Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  64
+Montage Abdeckung, mit Torhalterung, ohne Varioantrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  66
+Montage Abdeckung, mit Varioantrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  67
+EMC reduzieren, PFC-Filter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  69
+Demontage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  71
+Lebenszyklus. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  72
+Inbetriebnahme. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  72
+Wartung und Reinigung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  72
+Sicherheitsinformationen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  72
+Wartungsplan. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  72
+Reinigung und Pflege. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  72
+Außerbetriebnahme. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  73
+Transport und Lagerung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  73
+Transport. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  73
+Lagerung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  74
+Entsorgung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  74
+Anhang. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  75
+Technische Daten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  75
+Maximale Öffnungs- und Schließgeschwindigkeiten und -zeiten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  76
+Behangdurchbiegung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  76
+RP400 (2611) mit Rolltex-Behang. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  77
+Übersichtszeichnung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  78
+Übersichtszeichnung RP400 (2611), keine Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  78
+Übersichtszeichnung RP400 (2611), mit Torhalterung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  79
+Befestigungsplan. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  80
+Befestigungsplan RP400 (2611). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  80
+Wartungsplan. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  81
+Serviceintervall. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  81
+Montagebefestigungen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  81
+Antrieb. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  81
+Obere Laufrolle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  81
+Antriebswelle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  81
+Torblatt. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  81
+Bodenprofil. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  81
+Seitenpfosten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  82
+Schaltkasten und zusätzliche Komponenten (Stellmotoren). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  82
+Elektrische Funktionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  82
+Sicherheitsvorrichtungen und Stellmotoren. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  83
+Elektrische Komponenten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  83
+Mechanische Funktionen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  83
+Herstellerzertifikate. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  83
+Einbauerklärung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  83
+EU-Konformitätserklärung. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  83
+Prototypentest. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  83
+Ersatzteilliste. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  84
+Inhalt
+4
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 4 ---
+·
+·
+·
+·
+·
+·
+·
+·
+Einleitung
+Seit 1987 richtet ASSA ABLOY sein Know-how auf ein einzigartiges und patentiertes System von
+automatischen Schnelllauftoren mit folgenden Merkmalen aus:
+Unfallverzeihend.
+Perfekte Dichtung.
+Absolute Sicherheit.
+Luftdicht.
+Beständig gegen Windlast.
+Sehr hohe Geschwindigkeit.
+Reibungsloser Betrieb.
+Geringer Wartungsaufwand.
+ASSA ABLOY entwickelt seine Produkte ständig weiter, um den spezifischen Anforderungen jedes
+Industriezweigs gerecht zu werden.
+ASSA ABLOY verfügt über ein erfahrenes Team für Design, Kundenberatung, Produktion und Service
+mit kürzestmöglichen Lieferzeiten.
+Im Rahmen dieser Strategie der kontinuierlichen Weiterentwicklung seiner Produkte behält sich
+ASSA ABLOY das Recht vor, die Eigenschaften seiner Produkte oder Teile ohne vorherige
+Ankündigung zu ändern.
+Andere zutreffende Unterlagen
+Die Anweisungen in diesem Handbuch sind nur in Verbindung mit der Betriebsanleitung für das
+Steuerungssystem und dem Prüfbuch gültig. Beide sind bei Lieferung enthalten.
+Konformitätserklärung
+Die Konformitätserklärung ist im Prüfbuch enthalten und wird mit dem Tor ausgeliefert.
+Änderungen, die sich auf die im Handbuch angegebenen technischen Daten und die
+bestimmungsgemäße Verwendung auswirken, d. h. die die Maschine wesentlich verändern, führen
+zum Erlöschen dieser Erklärung!
+Änderungsvorbehalte und Gültigkeit
+Die in dieser Anleitung enthaltenen Informationen sind die zur Zeit des Drucks freigegebenen
+technischen Spezifikationen. Bedeutende Veränderungen werden in die Neuauflage der
+Betriebsanleitung eingearbeitet. Die Dokument- und die Versionsnummer dieser Anleitung sind in
+der Fußzeile enthalten.
+Lagerung
+Bewahren Sie dieses Handbuch und andere Bedienungsanleitungen in der Aufbewahrungstasche im
+Schaltkasten oder bei Toren mit MCC-Steuerungssystem in der mitgelieferten Dokumentenbox auf.
+Zielgruppe
+Dieses Handbuch richtet sich an geschultes, qualifiziertes und autorisiertes Personal. Sämtliche
+Einstellungen sowie insbesondere Reparaturen und Wartungsarbeiten dürfen nur durch Personal
+des Herstellers oder anderes geschultes Fachpersonal vorgenommen werden.
+Einleitung
+5
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+1
+1.1
+1.2
+1.3
+1.4
+1.5
+
+--- Page 5 ---
+Sicherheit
+Allgemeine Anweisungen
+Lesen Sie vor Beginn aller Arbeiten die Sicherheitshinweise und das Handbuch sorgfältig durch.
+Warnhinweise beziehen sich auf Gefahren für das Leben und die Gesundheit von Menschen oder für
+die Maschine, Ausrüstung oder die Umwelt. Die direkt an der Tür angebrachten Hinweise sind zu
+beachten und in lesbarem Zustand zu halten.
+Die folgende Beschreibung verwendet Symbole, um den Leser auf die verschiedenen Gefahren
+aufmerksam zu machen und nützliche Hinweise zu geben.
+Weist auf eine potenzielle Gefahr für Personen hin. Treffen Sie alle möglichen
+Vorsichtsmaßnahmen gegen Risiken, die mit der Arbeit mit elektrischen Mate-
+rialien verbunden sind, da diese möglicherweise an die Stromversorgung an-
+geschlossen sind.
+Befolgen Sie genau diese Hinweise, da die Missachtung einen Fehler oder eine
+gefährliche Situation verursachen kann.
+Wichtige Information.
+Darf nur von einem Techniker durchgeführt werden, der für die Bedienung
+eines Gabelstaplers autorisiert ist.
+Warnungen
+Warnhinweise beziehen sich auf Gefahren für das Leben und die Gesundheit von Menschen oder für
+die Maschine, Ausrüstung oder die Umwelt. Die direkt am Tor angebrachten Hinweise sind zu
+beachten und in lesbarem Zustand zu halten. Warnhinweise in diesem Dokument folgen dem
+nachstehenden Muster:
+Folgende Warnstufen werden verwendet:
+Signalwort
+Gefahrenstufe
+Folgen bei Nichtbeachtung
+Gefahr
+Unmittelbare ernste Gefahr
+Tod oder schwere Körperverletzung
+Warnung
+Potenziell große Gefahr
+Tod oder schwere Körperverletzung
+Achtung
+Potenzielle Gefahrensituation
+Leichte Körperverletzungen, Sachschäden
+Sicherheit
+6
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+2
+2.1
+2.1.1
+
+--- Page 6 ---
+·
+·
+·
+·
+·
+Allgemeine Sicherheitshinweise
+Diese Sicherheitsanleitung enthält wichtige Informationen, um das Tor sicher
+und sachgerecht in Betrieb zu nehmen, zu betreiben, zu transportieren, zu la-
+gern und zu warten.
+Lesen Sie die Anleitung sorgfältig durch und bewahren Sie sie an einem sicheren
+Ort auf.
+Beachten Sie insbesondere die Hinweise in diesem Kapitel. Beachten Sie auch
+die besonderen Sicherheitshinweise in den anderen Kapiteln.
+Verwenden Sie das Tor nur für den vorgesehenen Zweck. Wenn das Eigentum an
+dem Tor auf Dritte übertragen wird, stellen Sie sicher, dass diese Anleitung eben-
+falls mitgeliefert wird.
+Schutzausrüstung
+Bei einer Fehlfunktion der Antriebseinheit kann das Tor manuell mit einer
+Handkurbel oder Handkette geöffnet werden. Stellen Sie sicher, dass der
+Hauptschalter immer ausgeschaltet ist, bevor Sie die Handkurbel oder
+Handkette benutzen.
+Warnung
+Verletzungsgefahr
+Das Starten des Motors bei montierter Nothandkurbel/Handkette kann zu
+Verletzungen führen.
+Vor Betätigung der Nothandkurbel oder Handkette ist immer der Hauptschalter
+auszuschalten.
+Schalten Sie den Hauptschalter nicht ein, wenn die Nothandkurbel oder Handk-
+ette in den Motor eingesetzt ist.
+Greifen Sie nicht in die Seitenteile des Tores oder in den Bereich der oberen
+Laufrolle, wenn der Motor läuft.
+Unordnung kann Unfälle verursachen. Halten Sie die Arbeitsumgebung in un-
+mittelbarer Nähe des Tores aufgeräumt.
+Klettern Sie nicht am Tor.
+Bei allen Arbeiten am Tor Hauptschalter auf „Aus“ oder „0“ (Trennung vom
+Stromnetz) stellen und gegen unbeabsichtigtes Wiedereinschalten sichern.
+Bei Schäden an mechanischen oder elektrischen Komponenten das Tor sofort
+anhalten.
+Betreiben Sie das Tor nur mit der zugelassenen Versorgungsspannung und
+Netzfrequenz.
+Verwenden Sie nur Zubehör oder Anbauteile, die vom Hersteller für die Ver-
+wendung mit diesem Tor zugelassen sind.
+Sicherheit
+7
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+2.2
+2.3
+
+--- Page 7 ---
+Für die Verwendung des Tores ist keine spezielle persönliche Schutzausrüs-
+tung erforderlich. Dennoch darf das Tor nur von geschultem und autorisier-
+tem Personal bedient werden. Die Vorschriften der Anlage, in der das Tor ver-
+wendet wird, gelten ebenfalls.
+Sicherheit
+8
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 8 ---
+·
+·
+·
+·
+·
+·
+Sorgfaltspflicht des Bedieners/Benutzers
+Das Tor wurde unter Berücksichtigung einer Risikoanalyse und unter sorgfältiger Auswahl der
+einzuhaltenden Normen und anderer technischer Daten konstruiert und hergestellt. Es ist daher auf
+dem neuesten Stand der Technik und garantiert ein Höchstmaß an Sicherheit.
+Dieses Sicherheitsniveau kann in der Praxis jedoch nur erreicht werden, wenn alle erforderlichen
+Maßnahmen getroffen werden. Der Betreiber/Benutzer des Tores ist verpflichtet, diese Maßnahmen
+sorgfältig zu planen und ihre Ausführung zu überprüfen.
+Nur Mitarbeiter des Herstellers oder anderes geschultes Personal dürfen das
+Tor montieren, in Betrieb nehmen, prüfen, warten, reparieren und demontie-
+ren.
+Nur entsprechend geschultes, qualifiziertes und autorisiertes Personal darf
+das Tor bedienen.
+Verwenden Sie die Anlage nur für den vorgesehenen Zweck.
+Verwenden Sie die Anlage nur in einwandfreiem Betriebszustand. Überprüfen
+Sie die Sicherheitsmechanismen regelmäßig auf ihre Funktionsfähigkeit.
+Bewahren Sie die vollständige Bedienungsanleitung immer in leserlichem Zu-
+stand am Montageort des Tores auf.
+Schulen Sie Ihr Personal regelmäßig in allen relevanten Fragen der Gesund-
+heit und Sicherheit, der Betriebsanleitung und insbesondere der darin enthal-
+tenen Sicherheitshinweise.
+Lassen Sie alle Sicherheits- und Warnhinweise an der Anlage angebracht und
+stellen Sie sicher, dass sie lesbar sind.
+Bestimmungsgemäße Verwendung
+Sofern nicht anders angegeben, wurden unsere Tore unter normalen Bedingungen entwickelt und
+getestet. Gerne beraten wir Sie bei der Auswahl geeigneter Einsatzmöglichkeiten unter besonderen
+Bedingungen (z. B. einseitige Dauerbelastung durch Temperatur, Überdruck/Unterdruck oder
+besondere Umwelteinflüsse etc.).
+Das Tor ist als Schutzbarriere ausgelegt und bietet folgenden Schutz:
+Sichtbare Barriere für Schweißanlagen oder Maschinenzentren.
+Verhinderung von Personenbewegungen und Zugang zu Gefahrenbereichen.
+Schutz vor einer vorübergehenden Erhöhung der Wärmestrahlung auf bis zu 90°C, abhängig
+vom Torbehang.
+Lärmschutz bis -20 dBA, je nach Torbehang.
+Schutz bei Fräsmaschinen und Maschinenzentren gegen das Herausschleudern von
+gebrochenen Werkzeugen oder Maschinenteilen. Die Energieabsorption nach DIN EN 13128
+liegt zwischen 130J und 378J, je nach Torbehang.
+Außentore sind widerstandsfähig gegen Wind- und Regenlasten. Außentore können natürlich
+auch als Innentore verwendet werden.
+Sicherheit
+9
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+2.4
+2.5
+
+--- Page 9 ---
+Umgebungsbedingungen
+Je nach Modell sind die Tore für den Einbau als Innentore und für die Verwendung unter normalen
+Umgebungsbedingungen konzipiert.
+Sicherheitsfunktionen
+Elektrische Sicherheitseinrichtungen
+Die Lichtschranken und das Steuerungssystem werden vor dem Absenken des Tores einer internen
+Prüfung unterzogen (Sicherheitskategorie 2/Performance Level c gemäß EN ISO 13849–1
+„Sicherheitsbezogene Teile von Steuerungssystemen“). Wird ein Fehler erkannt, wird die
+Stromversorgung der Antriebseinheit unterbrochen.
+Zusätzliche Sicherheitssysteme, Sensoren
+Je nach Anwendung wird empfohlen, weitere Sensoren als Sicherheitssysteme hinzuzufügen, z. B.
+für Anwendungen mit hohem Personenverkehr und für Tore mit einer Höhe von weniger als 3 m, bei
+denen der zusätzliche Sicherheitsmechanismus des Benutzers, der das schließende Tor sieht, nicht
+vorhanden ist.
+ASSA ABLOY Entrance Systems bietet eine Vielzahl von Sicherheitssystemen für RapidRoll-Tore,
+einschließlich Lichtgittern, Bewegungssensoren, Induktionsschleifen usw. Wir empfehlen Ihnen, sich
+von uns vor Ort fachkundig zu Ihrer Anlage beraten zu lassen.
+Für Tore mit einer Höhe von weniger als 2,3 m ist eine Rollenabdeckung der
+oberen Welle vorgeschrieben.
+Verbleibende risiken
+Das Tor wurde unter Berücksichtigung einer Risikoanalyse und unter sorgfältiger Auswahl der
+einzuhaltenden Normen und anderer technischer Daten konstruiert und hergestellt. Es ist daher auf
+dem neuesten Stand der Technik und garantiert ein Höchstmaß an Sicherheit. Dieses
+Sicherheitsniveau kann in der Praxis jedoch nur erreicht werden, wenn alle erforderlichen
+Maßnahmen getroffen werden.
+Personen, die sich häufig in der Nähe des Tores aufhalten, müssen in die Ver-
+wendung und die Funktionen des Tores eingewiesen und auf die möglichen
+Gefahren hingewiesen werden, denen sie beim Schließen und Öffnen des Tores
+ausgesetzt sind.
+Das Tor ist nicht für eine ständige Handbetätigung ausgelegt.
+Sicherheit
+10
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+2.6
+2.7
+2.7.1
+2.7.2
+2.8
+
+--- Page 10 ---
+Produktbeschreibung
+In den folgenden Abschnitten werden die Bedienung und der Aufbau der ASSA ABLOY RP400
+(2611) Tore erläutert. Technische Daten des Tores, siehe Abschnitt 8. Anhang auf Seite 75.
+Betrieb und Design
+Die Tore sind vertikal öffnende Schnelllauftore. Sie bestehen aus zwei Seitenrahmen, einer oberen
+Laufrolle mit elektrischem Antrieb, dem Torbehang und einem Abschlussprofil.
+Die Seitenrahmen führen das Bodenprofil und den flexiblen Torbehang, der beim Öffnen des Tores
+auf die obere Laufrolle gerollt wird.
+Zur Prozessüberwachung können in beiden Seitenrahmen Sicherheitsendschalter installiert
+werden, die unabhängig von der Torsteuerung die geschlossene Position des Tores anzeigen.
+Ist das Tor geschlossen, wird der Behang von der oberen Laufrolle abgerollt und sinkt unter dem
+Gewicht des Bodenprofils und des Behangs ab.
+Sicherheitssysteme
+Alle RapidProtect (RP) Tore sind mit einem entsprechenden Schutz des Bodenprofils ausgestattet.
+Typ
+Schutz des Bodenprofils
+Breakaway-Mechanismus *
+RP400 (2611)
+Elektrische Sicherheitsleiste / vorlaufende
+Lichtschranke.
+Keine
+* Die Art des Breakaway-Mechanismus hängt von der Art des Bodenprofilschutzes ab.
+Alle Tore sind mit einer integrierten Sicherheitslichtschranke in den Seitenrahmen ausgestattet
+(optional mit vorlaufender Lichtschranke). Wenn der Lichtschrankenstrahl unterbrochen wird, kehrt
+das Tor sofort in die vollständig geöffnete Position zurück.
+Die Funktion der vorlaufenden Lichtschranke wird jedes Mal getestet, wenn das Tor beginnt, sich zu
+schließen. Die elektrische Sicherheitsleiste wird bei jedem Schließen des Tores permanent
+überwacht. Wird ein Fehler erkannt, wird die Stromversorgung der Antriebseinheit unterbrochen.
+Torkomponenten
+Die stationäre Sicherheitslichtschranke (1) überwacht den Schließbereich des Tores. Wenn
+während des Schließens der Lichtschrankenstrahl unterbrochen wird, kehrt das Tor in die
+vollständig geöffnete Position zurück. Wird der Vorgang bei vollständig geöffnetem Tor
+unterbrochen, kann das Tor nicht mehr geschlossen werden.
+Je nach Modell besteht der Torbehang (2) aus beschichtetem, farbigem und gewebtem Polyester-
+Monofilament oder transparentem/farbigem PVC mit Zugstreifen. (silikonfrei).
+Das Rolltop (3) ist ein Aluminiumrohr mit innen verklebten Wellenstümpfen. Die Antriebseinheit
+(6) enthält einen Elektromotor, ein Getriebe, einen Endschalter und einen Impulszähler.
+Der elektrische Schaltkasten (7) enthält je nach Konfiguration das Steuerungssystem ACS 50 oder
+MCC.
+Die Seitenrahmen (8) bestehen aus Aluminium. Wenn die Sicherheitsleiste (9) während des
+Schließens berührt wird, kehrt das Tor in die vollständig geöffnete Position zurück. Alternativ
+können vorlaufende Lichtschranken verwendet werden.
+Produktbeschreibung
+11
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+3
+3.1
+3.1.1
+3.2
+
+--- Page 11 ---
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+·
+Stationäre Sicherheitslichtschranke
+Torbehang
+Obere Laufrolle
+Optional: Rollenabdeckung (Aluminium);
+obligatorisch und standardmäßig an den To-
+ren DH <2300 mm hoch angebracht.
+Optional: Motorabdeckung (Kunststoff, pul-
+verbeschichteter Stahl); empfohlen, aber
+nicht obligatorisch für Tore DH < 2300 mm
+mit Personenverkehr.
+Antrieb
+Elektroschaltkasten
+Seitenrahmen
+Kontinuierlich überwachte elektronische Si-
+cherheitsleiste
+Steuerungssystem
+Tore der ASSA ABLOY RP400 (2611) Serie können mit einer leistungsstarken
+Frequenzumwandlersteuerung betrieben werden, die ein sanftes Beschleunigen und Bremsen des
+Tores ermöglicht.
+Die maximalen Öffnungs- und Schließgeschwindigkeiten der einzelnen Tore sind der Tabelle im
+Anhang zu entnehmen.
+Gefahr.
+Stromschlaggefahr.
+Tore, die nicht mit der empfohlenen Antriebseinheit oder Steuerungssystem
+betrieben werden, können einen Stromschlag verursachen.
+Betreiben Sie das Tor nur mit einer original Antriebseinheit und einem Steuer-
+ungssystem des Herstellers.
+Antrieb
+Das Tor wird mit einer elektrischen Antriebseinheit betrieben. Die Antriebseinheit wird oben am Tor
+montiert, außerhalb der Reichweite von Personen am Boden. Die Antriebseinheit ist
+schwingungsgedämpft und am Oberrahmen befestigt. Die Antriebseinheit kann je nach
+Kundenwunsch links oder rechts montiert werden. Ein Thermoelement überwacht die Temperatur
+der Antriebseinheit und unterbricht bei Überhitzung die Stromversorgung.
+Produktbeschreibung
+12
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+3.3
+3.4
+
+--- Page 12 ---
+·
+·
+·
+·
+Typenschild (beispielhafte Darstellung)
+Nur ein Beispiel: Die tatsächlichen Daten variieren je nach Tor.
+Technische Daten RP400 (2611)
+Technische Änderungen im Rahmen der Produktpflege vorbehalten.
+Das Prüfbuch enthält alle technischen Daten des Tores, siehe Abschnitt 8. Anhang auf Seite 75.
+Torabmessungen (Übersichtszeichnungen).
+Abmessungen des montierten Tores (Übersichtszeichnungen).
+Installationsort (Übersichtszeichnungen).
+Befestigungspunkte (Befestigungsplan).
+Produktbeschreibung
+13
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+3.5
+3.6
+
+--- Page 13 ---
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Bedienung
+Sicherheit
+Verwenden Sie das Tor nur für den vorgesehenen Zweck.
+Bei Beschädigungen (mechanisch oder elektrisch) das Tor sofort außer Betrieb nehmen. Dies
+gilt insbesondere für Schäden an Netz- oder Steuerleitungen.
+Verwenden Sie nur Zubehör oder Anbauteile, die vom Hersteller für die Verwendung mit
+diesem Tor zugelassen sind.
+Für weitere Sicherheitsinformationen, siehe Abschnitt 2. Sicherheit auf Seite 6.
+Bedienung
+Die Wahl des Impulsgebers ist Teil der Konstruktion, Einrichtung und Steuer-
+ungssystems des Tores und darf nur durch geschultes Fachpersonal erfolgen.
+Das Tor verfügt über eine elektrische Antriebseinheit und kann sowohl über den Taster an der
+Torsteuerung als auch über zusätzliche, externe Impulsgeber und Sicherheitseinrichtungen bedient
+werden.
+Im Allgemeinen sollten die Tasten Öffnen, Stopp und Schließen an der Torsteuerung während der
+Einrichtung, Wartung und Reparatur des Tores verwendet werden. Im Normalbetrieb wird das Tor
+über externe Signalquellen wie Seilzugschalter, Induktionsschleifen, Radar- oder Funksensoren oder
+Handballentaster gesteuert, die über potentialfreie Kontakte mit der Torsteuerung verbunden sind.
+Maschinenschutztore können über ein übergeordnetes Steuerungssystem bedient werden.
+Fehlerbehebung
+Gefahr!
+Gefahr von Personen- und Sachschäden.
+Unsachgemäße Störungsbeseitigung kann zu Schäden am Produkt und
+schweren Verletzungen des Personals führen.
+Störungen sollten nur von entsprechend qualifiziertem Personal beho-
+ben werden.
+Schalten Sie den Hauptschalter aus, um das Tor gegen unbeabsichtigtes
+Wiedereinschalten zu sichern.
+Verriegeln Sie den Hauptschalter, um ihn gegen Wiedereinschalten zu si-
+chern oder stellen Sie eine Sicherheitsabschaltung der Maschine durch
+eine zweite Person sicher.
+Sichern Sie den Arbeitsbereich um das Tor.
+Wenn der Fehler nicht behoben werden kann, wenden Sie sich an den Kun-
+dendienst des Lieferanten oder Herstellers.
+Tor öffnet oder schließt selbsttätig
+Ursache
+Lösung
+Motorbremse defekt.
+Bremse ersetzen.
+Bremse falsch eingestellt.
+Bremse einstellen.
+Bedienung
+14
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+4
+4.1
+4.2
+4.3
+4.3.1
+
+--- Page 14 ---
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Ursache
+Lösung
+Überdimensionale Ausgleichswelle
+Rufen Sie den Kundendienst zur Unterstützung an.
+Motor reagiert nicht auf Befehle
+Ursache
+Lösung
+Keine Stromversorgung.
+Schließen Sie das Tor an das Stromnetz an.
+Die elektrischen Anschlüsse sind de-
+fekt.
+Anschlüsse überprüfen.
+Sicherung ist durchgebrannt.
+Sicherung austauschen.
+Behang rollt schief auf
+Ursache
+Lösung
+Tor wurde falsch montiert
+Rufen Sie den Kundendienst
+Objekt im Behang verfangen
+Tor schließen und auf Fremdkörper prüfen
+Das Tor funktioniert nicht
+Ursache
+Lösung
+Keine Netzstromzufuhr.
+Prüfen Sie die Hauptstromversorgung/Sicherung.
+Sicherung des Steuerungssystems
+durchgebrannt.
+Prüfen Sie das Steuerungssystem und tauschen Sie die
+Sicherung aus.
+Hauptschalter aus.
+Steuerungssystem einschalten (Hauptschalter).
+Not-Stopp-Kreis unterbrochen.
+Not-Stopp-Kreis überprüfen. Unnötige Stoppeingänge
+gemäß Schaltplan überbrücken.
+Tor schließt nicht
+Ursache
+Lösung
+Aufwärtsimpuls ist dauerhaft an.
+Führen Sie eine Überprüfung des Impulsantriebs
+durch.
+Sicherheitslichtschranke blockiert
+Überprüfen Sie die Sicherheitseinrichtungen.
+Tor schließt erst beim nächsten Impuls
+Ursache
+Lösung
+Wechselschaltungssatz.
+Prüfen Sie die eingestellte Steuerungsfunktion.
+Bedienung
+15
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+4.3.2
+4.3.3
+4.3.4
+4.3.5
+4.3.6
+
+--- Page 15 ---
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Montage
+Überprüfung der Lieferung
+Gefahr!
+Verletzungsgefahr.
+Unsachgemäßer Umgang mit dem verpackten Tor kann zu Verletzungen füh-
+ren.
+Stellen Sie die Palette auf einer ebenen Fläche auf.
+Entfernen Sie die Palette nicht, bevor Sie mit der Montage beginnen.
+Das Tor ist bei der Lieferung größtenteils vormontiert. Die Seitenrahmen, die Walzenabdeckung, die
+Motorabdeckung (falls mitgeliefert), die Befestigungsmaterialien und das Steuerungssystem sind an
+einem Transportrahmen (Holzpalette) befestigt.
+Überprüfen Sie die Torkomponenten auf Transportschäden.
+Stellen Sie sicher, dass die Lieferung vollständig ist. Der erforderliche Lieferumfang ist der
+Auftragsdokumentation zu entnehmen.
+Wenn Teile beschädigt sind, wenden Sie sich an ASSA ABLOY Entrance Systems und melden Sie
+dies, bevor Sie mit der Installation fortfahren.
+Vorbereitungen für die Montage
+Gefahr.
+Verletzungsgefahr.
+Unsachgemäße Montage des Tores kann zu Verletzungen führen.
+Isopaneelwände, Riffelsteine und leichte Trennwände müssen auf ihre Eignung
+für die Montage geprüft werden.
+Das Tor darf nur von geschultem Personal, vom Hersteller oder einer vom Hers-
+teller zugelassenen Montagefirma montiert werden.
+Vor der Montage des Tores sind folgende Vorbereitungen zu treffen:
+Überprüfen Sie den Aufstellungsort auf die erforderlichen Befestigungspunkte und
+Montageanforderungen: Montieren Sie ggf. eine Unterstützung für das Tor oder andere
+geeignete Befestigungsmöglichkeiten.
+Verschrauben Sie die oberen Befestigungspunkte mit einer Stahlstütze für das Tor oder einem
+Betonelement. Informationen zum Befestigungsplan, siehe Abschnitt 8.6. Befestigungsplan
+auf Seite 80.
+Lichtes Durchgangsmaß (Breite und Höhe) der Toröffnung messen und mit der Bestellung
+vergleichen.
+Den Aufstellungsort gegen Personen- und Fahrzeugbewegungen absperren.
+Schrumpffolie vom verpackten Tor entfernen.
+Montage
+16
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5
+5.1
+5.2
+
+--- Page 16 ---
+1.
+2.
+·
+·
+·
+·
+·
+Überblick
+Antriebseinheit und Montagematerial werden in einem Karton geliefert.
+Überprüfen Sie das Tor auf eventuelle Transportschäden und auf Vollständigkeit.
+Überprüfen Sie die Lieferdokumentation.
+Lieferung von Modellen ohne Torhalterung
+Die obere Welle wird mit einem aufgerollten, gesicherten Torbehang geliefert. Im Lieferumfang des
+Tores enthaltene Teile, Modelle ohneTorhalterung:
+Abdeckung obere Laufrolle
+Motorverkleidung
+Bodenprofil
+Obere Laufrolle
+Seitenrahmen
+Montage
+17
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.3
+5.4
+
+--- Page 17 ---
+·
+·
+·
+·
+·
+·
+Lieferung von Modellen mit Torhalterung
+Die obere Welle wird mit einem aufgerollten, gesicherten Torbehang geliefert. Im Lieferumfang des
+Tores enthaltene Teile, Modelle mitTorhalterung:
+Abdeckung obere Welle.
+Motorabdeckung.
+Bodenprofil.
+Obere Welle.
+Seitenrahmen.
+Torhalterung.
+Montage
+18
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.5
+
+--- Page 18 ---
+1.
+2.
+3.
+Vorbereitungen für die Montage
+Gefahr durch Kippen des Seitenrahmens.
+Demontieren Sie die Seitenrahmenabdeckung, Schrauben M8x10. Der untere Teil des Bildes
+zeigt die Form der Rahmenabdeckung von der Seite.
+Bei Anlagen mit Torhalterung fahren Sie mit der Montage fort, mit Torhalterung, siehe
+Abschnitt 5.9. Tormontage, Anlagen mit Torhalterung auf Seite 34.
+Messen Sie bei Toren ohne Torhalterung DW und DH des Gebäuderahmens für das Tor.
+Montage
+19
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.6
+
+--- Page 19 ---
+4.
+5.
+Wenn der Boden nicht horizontal ist, montieren Sie den ersten Seitenrahmen auf der höheren
+Seite. Montieren Sie den Seitenrahmen genau senkrecht mit einer Laserwaage.
+Befestigen Sie die Kopfplatte mit den drei Befestigungsschrauben M10 oder vergleichbar an der
+Wand (Befestigungsteile nicht im Lieferumfang enthalten). Befestigungspunkte sind im
+Befestigungsplan dargestellt.
+Installieren Sie bei Anlagen mit Kettenantrieb die Nichtantriebsseite.
+Bei Anlagen ohne Kettenantrieb fahren Sie mit der Montage für Anlagen ohne Torhalterung,
+siehe Abschnitt 5.8. Tormontage, Anlagen ohne Torhalterung auf Seite 27, bzw. mit der
+Montage für Anlagen mit Torhalterung, siehe Abschnitt 5.9. Tormontage, Anlagen mit
+Torhalterung auf Seite 34 fort.
+Montage
+20
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 20 ---
+1.
+2.
+3.
+Tormontage, Anlagen mit Kettenantrieb
+Kettenantrieb, Montage auf dem Boden
+Nur für Anlagen mit Kettenantrieb (optional).
+Bei Anlagen ohne Kettenantrieb fahren Sie mit der Montage für Anlagen ohne Torhalterung, siehe
+Abschnitt 5.8. Tormontage, Anlagen ohne Torhalterung auf Seite 27, bzw. mit der Montage für
+Anlagen mit Torhalterung, siehe Abschnitt 5.9. Tormontage, Anlagen mit Torhalterung auf Seite 34
+fort.
+Kippen der oberen Welle, des Seitenrahmens oder des Kettenantriebs stellt
+eine Gefahr dar.
+Montieren Sie die obere Platte mit den vier M8x20-Senkkopfschrauben am Kasten des
+Kettenantriebs. Verschiedene Positionen sind möglich.
+Montieren Sie die obere Laufrolle (Antriebsseite) an der Kopfplatte, nur auf der Antriebsseite.
+Befestigen Sie das Lager mit der Gewindestiftschraube, die mit einem Pfeil markiert ist, an der
+oberen Laufrolle.
+Montage
+21
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.7
+5.7.1
+
+--- Page 21 ---
+4.
+5.
+6.
+7.
+Montieren Sie eine Schale der Motorabdeckung mit den M12x25-Schrauben am
+Kettenantriebsgehäuse.
+Berücksichtigen Sie die beabsichtigte Position (45°-Schritte möglich).
+Montieren Sie die Antriebseinheit mit den beiden Schrauben M12x120 und den beiden
+Buchsen Ø25x22 am Kettenantriebsgehäuse.
+Berücksichtigen Sie die beabsichtigte Position (45°-Schritte möglich).
+Legen Sie die Kette über beide Kettenräder und verbinden Sie sie mit dem Sicherungsglied.
+Kettenantrieb (mit Kettenrad) auf die obere Laufrolle schieben (Schmiermittel verwenden).
+Montage
+22
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 22 ---
+8.
+9.
+10.
+Befestigen Sie das Kettenrad mit einer Unterlegscheibe Ø40 und einer Schraube M8x16 (von
+der Vorderseite) an der oberen Laufrolle.
+Befestigen Sie den Kettenantrieb mit drei oder vier Schrauben M10x18 in der vorgegebenen
+Position (45°-Schritte möglich) an der Kopfplatte, verwenden Sie Unterlegscheiben.
+Die beiden Federn am Kettenspanner mit einer Spitzzange an der Federaugenscheibe über den
+Schraubenkopf ziehen.
+Montage
+23
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 23 ---
+11. Setzen Sie die Abdeckung des Kettenantriebs unter das Gehäuse und befestigen Sie die
+gegenüberliegende Seite mit zwei Sechskantschrauben M8x16.
+Montage
+24
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 24 ---
+1.
+2.
+3.
+4.
+Montage obere Laufrolle, Anlagen mit Kettenantrieb
+Nur für Anlagen mit Kettenantrieb.
+Bei Anlagen ohne Kettenantrieb fahren Sie mit der Montage für Anlagen ohne Torhalterung, siehe
+Abschnitt 5.8. Tormontage, Anlagen ohne Torhalterung auf Seite 27, bzw. mit der Montage für
+Anlagen mit Torhalterung, siehe Abschnitt 5.9. Tormontage, Anlagen mit Torhalterung auf Seite 34
+fort.
+Kippen der oberen Welle, des Seitenrahmens oder des Kettenantriebs stellt
+eine Gefahr dar.
+Verwenden Sie ein geeignetes Gerät, z. B. einen Kran oder Gabelstapler, um die obere Laufrolle
+anzuheben, eventuell mit Gurten, und befestigen Sie die oberen Platten an der Wand/
+Torhalterung.
+Stellen Sie den Seitenrahmen (Antriebsseite) senkrecht und befestigen Sie den Seitenrahmen
+an der Wand (Befestigungsteile nicht im Lieferumfang enthalten).
+Befestigungspunkte sind im Befestigungsplan dargestellt.
+Montieren Sie die Kopfplatte am Seitenrahmen.
+Montieren Sie den Seitenrahmen genau senkrecht, ggfs. mit einer Laserwaage.
+Montage
+25
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.7.2
+
+--- Page 25 ---
+5.
+6.
+Befestigen Sie die Kopfplatte mit zwei Schrauben M10 oder vergleichbaren
+Befestigungsschrauben an der Wand (Befestigungsteile nicht im Lieferumfang enthalten).
+Befestigungspunkte sind im Befestigungsplan dargestellt.
+Befestigen Sie die obere Platte mit den beiden Befestigungsschrauben M10 oder vergleichbar
+an der Wand (Befestigungsteile nicht im Lieferumfang enthalten).
+Befestigungspunkte sind im Befestigungsplan dargestellt.
+Montage
+26
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 26 ---
+1.
+2.
+Tormontage, Anlagen ohne Torhalterung
+Montage obere Laufrolle, ohne Torhalterung
+Für Anlagen ohne Torhalterung.
+Gefahr durch Kippen des Seitenrahmens.
+Kippen oder Herabfallen der oberen Laufrolle stellt eine Gefahr dar.
+Befestigen Sie die Bodenplatte mit den beiden M10-Schrauben oder vergleichbaren Schrauben
+am Boden (Befestigungsteile nicht im Lieferumfang enthalten).
+Wenn die Seitenrahmen keine Bodenplatten haben, befestigen Sie den Seitenrahmen mit einer
+M10 oder einer vergleichbaren Befestigungsschraube an der Wand.
+Befestigungspunkte sind im Befestigungsplan dargestellt. Wenn (DH+X) ≥ 4 m, Seitenrahmen
+zusätzlich mittig an der Wand befestigen.
+Beide Seiten der Seitenrahmen gleichmäßig montieren.
+Stellen Sie sicher, dass der maximale Höhenunterschied zwischen den beiden Seitenrahmen 3
+mm beträgt. Sicherstellen, dass DW dem angegebenen Maß entspricht. Stellen Sie sicher, dass
+die Diagonalen gleich sind. Die maximal zulässige Abweichung beträgt 3 mm. Falls erforderlich,
+die Unterseite unterlegen.
+Montage
+27
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.8
+5.8.1
+
+--- Page 27 ---
+3.
+Verwenden Sie den Kabelkanal, um den Abstand zwischen den beiden oberen Platten zu
+überprüfen. Befestigen Sie den Kabelkanal mit der Schraube M8x8 und einer Unterlegscheibe
+an den Kopfplatten.
+Montage
+28
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 28 ---
+4.
+Positionieren Sie die Kabel wie in der Abbildung dargestellt.
+Tore mit Lichtgitter: Führen Sie das Kabel des Lichtgitters wie abgebildet, um sicherzustellen,
+dass sich der Stecker (1) im Seitenrahmen befindet.
+Montage
+29
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 29 ---
+5.
+6.
+Verwenden Sie ein geeignetes Gerät, z. B. einen Kran oder Gabelstapler, um die obere Laufrolle
+anzuheben und an den oberen Platten zu befestigen. Das Lagergehäuse wird mit Kabelbindern
+zusammengehalten, vor dem Zusammenbau Kabelbinder entfernen.
+Den Behang wie in der Abbildung auf der linken Seite gezeigt anbringen (führen).
+Auf der Seite der Antriebseinheit muss das Lagergehäuse von außen montiert werden
+(Abbildung rechts). Verwenden Sie zwei M10x30-Sechskantschrauben/-Unterlegscheiben/-
+muttern.
+Montage
+30
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 30 ---
+7.
+1.
+2.
+3.
+Auf der Nichtantriebsseite (kurzer Wellenstumpf) muss das Lagergehäuse von innen montiert
+werden. Verwenden Sie die beiden Sechskantschrauben/Unterlegscheiben/Muttern M10x30.
+Bei Anlagen mit Kettenantrieb fahren Sie mit der Montage des Ausgleichs fort, siehe Abschnitt
+5.8.3. Ausgleichsanschluss auf Seite 32.
+Bei Anlagen mit Varioantrieb fahren Sie mit der Montage der Abdeckung fort, siehe Abschnitt
+5.13.5. Montage Abdeckung, mit Varioantrieb auf Seite 67.
+Motorbaugruppe (kein Kettenantrieb, kein Varioantrieb)
+Für Anlagen ohne Torhalterung, ohne Kettenantrieb und ohne Varioantrieb
+Kippen oder Herabfallen des Motors stellt eine Gefahr dar.
+Schieben Sie den Motor auf die Antriebswelle, verwenden Sie Schmiermittel.
+Prüfen Sie die Verbindung der Passfeder.
+Festen Sitz prüfen, ggf. Hebewerkzeuge verwenden.
+Montage
+31
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.8.2
+
+--- Page 31 ---
+4.
+5.
+1.
+Den Abstand zwischen Kopfplatte und Drehmomentstütze mit zwei Distanzhülsen Ø20x12
+füllen.
+Befestigen Sie die Drehmomentstütze mit vier Schrauben/Unterlegscheiben/Muttern M8x30
+an der Kopfplatte des Seitenrahmens.
+Ausgleichsanschluss
+Für Anlagen ohne Torhalterung.
+Schließen Sie den Potenzialausgleich an die Kopfplatte an.
+Montage
+32
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.8.3
+
+--- Page 32 ---
+1.
+2.
+MCC (7110)/MCC
+Für Anlagen ohne Torhalterung, mit MCC (7110)/MCC.
+Die Abbildungen zeigen die am Seitenrahmen montierte MCC. Weitere Informationen zum
+Steuerungssystem finden Sie im Benutzerhandbuch des Steuerungssystems. Für korrekte
+Position, siehe Abschnitt 8.5. Übersichtszeichnung auf Seite 78.
+Senken Sie den Torbehang mit der Handkurbel auf Arbeitshöhe ab.
+Diese Kurbel kann im Fehlerfall als Nothandbetätigung verwendet werden. Fahren Sie mit
+Schritt 5.10.1. Bodenträger, Ausführung A auf Seite 47 oder 5.10.2. Bodenträger, Ausführung B
+auf Seite 49 fort, je nach Tormodell.
+Montage
+33
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.8.4
+
+--- Page 33 ---
+1.
+2.
+Tormontage, Anlagen mit Torhalterung
+Montage der Stützpfosten
+Für Anlagen mit Torhalterung.
+Das Kippen des Stützpfostens stellt eine Gefahr dar.
+Das Kippen des Seitenrahmens stellt eine Gefahr dar.
+Übersicht Torhalterung (von oben). Die gestrichelte Linie markiert die Position des Torblatts.
+Beide Seiten der Seitenrahmen gleichmäßig montieren.
+Befestigen Sie die Bodenplatte mit vier M10-Schrauben oder vergleichbaren Schrauben am
+Boden (Befestigungsteile sind nicht im Lieferumfang enthalten). Die Löcher in der Bodenplatte
+sind nicht symmetrisch. Befestigungspunkte sind im Befestigungsplan dargestellt. Die
+gestrichelte Linie markiert die Position des Torblatts.
+Montage
+34
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.9
+5.9.1
+
+--- Page 34 ---
+3.
+4.
+Den Stützpfosten auf die Bodenplatte setzen. Befestigen Sie den Stützpfosten mit den
+Schrauben M10x25.
+Verwenden Sie Unterlegscheiben, die Platten sind 20 mm dick und die Schraube ist 25 mm
+dick.
+Richten Sie den Stützpfosten mit den Schrauben M10x25 und Muttern M10 aus. Passen Sie die
+Befestigungsschrauben M10x25 an und ändern Sie bei Bedarf die Anzahl der Unterlegscheiben.
+Montage
+35
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 35 ---
+5.
+1.
+2.
+Montieren Sie den zweiten Stützpfosten wie den ersten Stützpfosten. Montieren Sie die
+Stützpfosten vertikal. Stellen Sie sicher, dass der maximale Höhenunterschied zwischen den
+beiden Seitenrahmen 3 mm beträgt. Sicherstellen, dass DW dem angegebenen Maß entspricht.
+Stellen Sie sicher, dass die Diagonalen gleich sind. Die maximal zulässige Abweichung beträgt 3
+mm.
+Montage der Seitenrahmen
+Für Anlagen mit Torhalterung.
+Das Kippen des Seitenrahmens stellt eine Gefahr dar.
+Montieren Sie die Seitenrahmen an den Stützpfosten.
+Montieren Sie den Seitenrahmen an der Torhalterung, richten Sie das Aluprofil des
+Seitenrahmens am Stützrahmen aus.
+Montage
+36
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.9.2
+
+--- Page 36 ---
+3.
+4.
+5.
+Seitenrahmen mit Schraube M8x16 in einer Höhe von ca. 2 m befestigen.
+Ziehen Sie alle M8x16-Schrauben fest, um den Seitenrahmen am Stützrahmen zu befestigen.
+Obere Befestigung: Montieren Sie das Erdungsblech unter der Schraube (biegen Sie das Blech
+zuvor um 90°). Die Abbildungen zeigen das geerdete Blech; ungebogen und um 90° gebogen.
+Montage
+37
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 37 ---
+6.
+7.
+Mit Lichtgitter: Stellen Sie sicher, dass das Lichtgitter auf der Bodenplatte aufliegt.
+Stellen Sie sicher, dass der maximale Höhenunterschied zwischen den beiden Seitenrahmen 3
+mm beträgt. Sicherstellen, dass DW dem angegebenen Maß entspricht. Stellen Sie sicher, dass
+die Diagonalen gleich sind. Die maximal zulässige Abweichung beträgt 3 mm.
+Baugruppe Distanzprofil
+Für Anlagen mit Torhalterung.
+Gefahr durch Kippen oder Herabfallen des Distanzprofils.
+Montage
+38
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.9.3
+
+--- Page 38 ---
+1.
+2.
+3.
+Montieren Sie das Distanzprofil an den Kopfplatten der Seitenrahmen. Verwenden Sie zwei
+Schrauben M8x16 und zwei Sicherungsmuttern.
+Verwenden Sie ein geeignetes Gerät, z. B. einen Kran oder Gabelstapler, um die obere Laufrolle
+anzuheben und an den oberen Platten zu befestigen.
+Den Behang wie in der Skizze auf der linken Seite gezeigt anbringen (führen). Der Behang muss
+an der Vorderseite des Tores positioniert werden.
+Montage
+39
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 39 ---
+4.
+5.
+6.
+Die Abbildung zeigt die Positionierung des Lagergehäuses auf der Seite der Antriebseinheit. Das
+Lagergehäuse muss von außen montiert werden. Verwenden Sie zwei M10x30-
+Sechskantschrauben/-Unterlegscheiben/-muttern.
+Auf der Nichtantriebsseite (kurzer Wellenstumpf) muss das Lagergehäuse von innen mit zwei
+Schrauben/Scheiben/Muttern M10x30 montiert werden.
+Befestigen Sie den Alu-Kabelkanal am Tragrahmen.
+Montage
+40
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 40 ---
+7.
+8.
+Nichtantriebsseite (Bild links): Die Kabel wie abgebildet vom Seitenrahmen zum horizontalen
+Kabelkanal verlegen.
+Antriebsseite (Bild rechts): Die Kabel wie abgebildet vom Seitenrahmen zum vertikalen
+Kabelkanal verlegen.
+BeiToren mit Vario-Antrieb fahren Sie mit der Montage der Abdeckung, siehe Abschnitt 5.13.5.
+Montage Abdeckung, mit Varioantrieb auf Seite 67fort.
+Tore mit Lichtgitter: Führen Sie das Kabel des Lichtgitters wie abgebildet, um sicherzustellen,
+dass sich der Stecker (1) im Seitenrahmen befindet.
+Montage
+41
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 41 ---
+1.
+2.
+3.
+4.
+Drehmomentstütze
+Für Anlagen mit Torhalterung.
+Schieben Sie den Motor mit Drehmomentstütze auf die Antriebswelle, verwenden Sie
+Schmiermittel.
+Prüfen Sie die Verbindung der Passfeder.
+Prüfen Sie, ob die Position sicher ist, und verwenden Sie ggf. Hebewerkzeuge.
+Befestigen Sie die Drehmomentstütze mit einem Winkel von 9° an der Kopfplatte des
+Seitenrahmens.
+Montage
+42
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.9.4
+
+--- Page 42 ---
+5.
+6.
+Den Abstand zwischen Kopfplatte und Drehmomentstütze mit einer Distanzhülse Ø20x12
+füllen.
+Befestigen Sie die Drehmomentstütze mit den drei M8x30-Schrauben/Unterlegscheiben/
+Muttern an der Kopfplatte.
+Montage
+43
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 43 ---
+7.
+a.
+b.
+Montieren Sie die Sechskantstange und die Führung am Aluprofil.
+Handkurbel ohne MCC-Erweiterung und ohne APS-E:
+1) Aluprofil; 2) 58 bei Einrastung im Motor; 3) Hammermutter M6.
+Handkurbel für MCC-Erweiterung:
+1) Aluprofil; 2) 58 bei Einrastung im Motor; 3) Hammermutter M6.
+Montage
+44
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 44 ---
+c.
+8.
+Handkurbel für APS-E:
+1) Aluprofil; 2) 58 bei Einrastung im Motor; 3) Hammermutter M6.
+Tore mit MCC (7110)/MCC: Die Abbildungen zeigen die am Seitenrahmen montierte MCC.
+Beachten Sie die Bedienungsanleitung des Steuerungssystems. Die Position finden Sie in der
+Übersichtszeichnung.
+Montage
+45
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 45 ---
+9.
+10.
+Schließen Sie den Potenzialausgleich an der Torhalterung an. Schraube an der Torhalterung
+befestigen und Aufkleber neben die Schraube kleben.
+Tore ohne Varioantrieb: Senken Sie den Torbehang mit der Ratsche auf die Arbeitsebene ab
+(Abb. links).
+Tore mit Varioantrieb: Senken Sie den Torbehang mit der Handkurbel auf Arbeitshöhe ab (Bild
+rechts).
+Bei einem Notfall oder einer Störung. Die Handkurbel oder Ratsche kann als Handbetätigung
+verwendet werden.
+Montage
+46
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 46 ---
+1.
+2.
+3.
+Bodenträger
+Bodenträger, Ausführung A
+Einbausituation, Tor auf der Seite des Monteurs. Die Arbeitspapiere enthalten die Informationen zu
+Version A oder Version B.
+Schieben Sie das Abschlussprofil auf. Das Tor (seitliche Rahmenabdeckung) wird an der Seite
+des Arbeiters montiert. Die glatte Oberfläche des asymmetrischen Bodenträgers befindet sich
+auf der Seite des Monteurs.
+Setzen Sie das Klemmteil in das Aluminiumprofil ein (Abbildung links). Klemmteil im
+Abschlussprofil drehen und (teilweise) hinter die Flanke des Seitenrahmenprofils schieben (Bild
+rechts). Abbildungen zeigen die Torseite. Das kleine Bild zeigt die Ansicht von oben.
+Schieber (1) wie abgebildet einsetzen. Stecken Sie die beiden Zylinderschrauben M8x25 durch
+das Aluminiumprofil und den Schieber. Schrauben im Klemmteil befestigen (Bild links). Keine
+Unterlegscheiben verwenden.
+Montage
+47
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.10
+5.10.1
+
+--- Page 47 ---
+4.
+5.
+Befestigen Sie die beiden Schrauben der Abdeckkappe (2) mit einem Kunststoffhammer in den
+Löchern des Schiebers (1) (Abbildung rechts). Abbildungen zeigen die Torseite.
+Richten Sie das Bodenprofil auf das Torblatt aus (mittig). Befestigen Sie das Abschlussprofil mit
+den Blechschrauben 4,8x19. Verwenden Sie Unterlegscheiben. Die Abbildung zeigt die
+gegenüberliegende Torseite.
+Montage
+48
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 48 ---
+1.
+2.
+Bodenträger, Ausführung B
+Einbausituation, Tor auf der Roboterseite. Die Arbeitspapiere enthalten die Informationen zu
+Version A oder Version B.
+Schieben Sie das Abschlussprofil auf. Das Tor (Seitenrahmenabdeckung) ist an der Seite des
+Roboters angebracht. Die glatte Oberfläche des asymmetrischen Bodenträgers befindet sich
+auf der Seite des Monteurs.
+Schieberegler wie abgebildet einsetzen (Bild links). Blech (2) auf den Schieber (1) setzen und
+von Hand halten (Bild rechts).
+Montage
+49
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.10.2
+
+--- Page 49 ---
+3.
+Option Abschlussprofil Ausführung B: 2 Zylinderschrauben M8x25 durch das Aluminiumprofil
+und den Schieber stecken und in das Blech einschrauben (Bild links). Keine Unterlegscheiben
+verwenden. Die 2 Schrauben der Abdeckkappe in die Löcher des Schiebers einschlagen (mit
+einem Kunststoffhammer) (Abbildung rechts).
+Richten Sie das Bodenprofil auf das Torblatt aus (mittig). Befestigen Sie das Abschlussprofil mit
+den Blechschrauben 4,8x19. Verwenden Sie Unterlegscheiben. Die Abbildung zeigt die Torseite.
+Montage
+50
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 50 ---
+1.
+2.
+Sicherheit des Bodenträgers
+Die Abbildung rechts zeigt die Kabel für die Sicherheitsleiste. Kabel in die untere Nut des
+Schiebers führen, mit Kabelbinder sichern.
+Bild links zeigt das Lichtgitter. Stellen Sie sicher, dass die Ausblendfolie installiert und frei
+beweglich ist. Weitere Informationen zum Lichtgitter finden Sie im Benutzerhandbuch
+Lichtgitter.
+Vorlaufende Lichtschranke: Führen Sie das Lichtschrankenkabel durch die Öffnung des
+Schiebers und sichern Sie es mit einem Kabelbinder. Stellen Sie sicher, dass beide
+Erdungsbefestigungspunkte guten Kontakt haben.
+Montage
+51
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.10.3
+
+--- Page 51 ---
+1.
+2.
+3.
+Endschalter
+Schließen Sie die elektrischen Anschlüsse für die Antriebseinheit an. Stellen Sie die
+Nockenendschalter unter Beachtung der Grenzwerte ein. Stellen Sie den Nockenendschalter S3
+so ein, dass er an der oberen Grenze geschaltet wird. Stellen Sie den nockenbetätigten
+Endschalter S1 etwa 20 mm über dem oberen Grenzwert ein.
+S1 Not-Auf
+S2 Not-Zu
+S3 Referenzschalter Auf
+S4 Zu
+S5 Stationäre Lichtschranke deaktivieren
+S6 Add-on
+Nockenbetätigte Endschalter einstellen: Wenn dieser grob eingestellt ist, Schraube A festziehen
+und nach Möglichkeit nicht wieder lösen (zur Sicherung überlackieren). Verwenden Sie
+Schraube B zur Feineinstellung der Grenzwerte.
+Tore mit MCC (7110)/MCC
+Einstellung des unteren Endschalters und Abschaltung der stationären Lichtschranke sind im
+Handbuch des Steuerungssystems beschrieben. Stellen Sie den nockenbetätigten
+Notendschalter S2 ca. 20 mm unterhalb des unteren Endschalters ein.
+Montage
+52
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.11
+
+--- Page 52 ---
+4.
+5.
+6.
+7.
+Tore ohne Steuerungssystem: Stellen Sie den unteren Endschalter (S4) und den Notendschalter
+(S2) ein.
+Nockenendschalter S4 so einstellen, dass bei einer Öffnungshöhe von 30–50 mm geschaltet
+wird. Den nockenbetätigten Notendschalter S2 ca. 20 mm unterhalb der unteren Endlage
+einstellen.
+Tore ohne Steuerungssystem: Lichtschranke (S5) ausschalten.
+Nockenendschalter S5 so einstellen, dass bei einer Öffnungshöhe von 300–400 mm geschaltet
+wird.
+Befestigen Sie die Steuerung, den Not-Aus-Schalter und das Display (optional) mit den
+mitgelieferten Halterungen am Seitenrahmen oder an der Wand. Montieren Sie die Steuerung
+auf der Antriebsseite, Not-Aus und Display am Ende des bestellten Kabels.
+Die stationäre Lichtschranke kann ausgeschaltet werden, wenn das Tor 300–400 mm geöffnet
+ist. Die Sicherheit des Bodenträgers ist noch aktiv (Sicherheitsleiste oder vorlaufende
+Lichtschranke).
+Montage
+53
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 53 ---
+8.
+9.
+1.
+2.
+3.
+1.
+2.
+3.
+4.
+Die Notendschalter werden durch die Endschaltereinstellungen automatisch voreingestellt.
+Der Schaltpunkt für die Notendschalter muss ggf. mit der Feinstellschraube so korrigiert
+werden, dass das Tor noch stoppt und bei Vertauschen des Drehgetriebes oder Ausfall der
+Betriebsendschalter keine Gefahr darstellt.
+Sicherheitsschalter
+Die meisten Tore sind mit Sicherheitsschaltern ausgestattet. Der Sicherheitsschalter ist im
+Seitenrahmen montiert. Der Stellmotor ist am Bodenprofil montiert.
+5.12.1. Sicherheitsschalter Schmersal Typ 1 auf Seite 55 und , Sicherheitsschalter Telemechanik,
+siehe Abschnitt 5.12.2. Sicherheitsschalter Telemechanik auf Seite 56.
+Stellmotor, Schmersal Typ 1
+Endschalter Schmersal Typ 1
+Endschalter, Telemechanik
+5.12.3. Sicherheitsschalter Allen Bradley auf Seite 57, 5.12.4. Sicherheitsschalter Schmersal Typ 2
+auf Seite 59.
+Endschalter, Allen Bradley
+Stellmotor, Allen Bradley
+Stellmotor, Schmersal Typ 2
+Endschalter Schmersal Typ 2
+Montage
+54
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.12
+
+--- Page 54 ---
+1.
+2.
+Sicherheitsschalter Schmersal Typ 1
+Bodenträger, Ausführung B: Ohne Seitenrahmenabdeckung wird der Bodentr-
+äger nicht geführt.
+Endschalter gemäß Anschlussplan an das Steuerungssystem anschließen. Senken Sie das Tor bis
+zum unteren Anschlag ab.
+Überprüfen Sie das Sicherheitsrelais, um zu sehen, ob der Endschalter aktiv ist. Der Stellmotor
+(2) des Abschlussprofils muss sich auf der gleichen Höhe (Höhe) im Seitenrahmen wie der
+Endschalter (1) befinden. Der Schalter kann vertikal in den Schraubkanal des Seitenrahmens
+eingesetzt werden. Bewegen Sie das Abschlussprofil horizontal und vertikal, um zu überprüfen,
+ob das Signal übertragen wird.
+Montage
+55
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.12.1
+
+--- Page 55 ---
+3.
+1.
+2.
+3.
+Lassen Sie das Tor fünf Zyklen laufen und überprüfen Sie die Ausgangssignale der Schalter. In
+der Abbildung ist der Stellmotor ca. 5 mm niedriger als der Endschalter. Die niedrigste Position
+des Stellmotors wird durch eine Halterung begrenzt.
+Sicherheitsschalter Telemechanik
+Bodenträger, Ausführung B: Ohne Seitenrahmenabdeckung wird der Bodentr-
+äger nicht geführt.
+Der Rollenhebelschalter und die Halterung sind im Seitenrahmen eingebaut.
+Rollenhebelschalter gemäß Schaltplan an das Steuerungssystem anschließen.
+Senken Sie das Tor bis zum unteren Anschlag ab.
+Überprüfen Sie am Sicherheitsrelais, ob der Rollenhebelschalter ausgelöst hat.
+Montage
+56
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.12.2
+
+--- Page 56 ---
+4.
+5.
+6.
+1.
+Bewegen Sie das Abschlussprofil horizontal und vertikal, um zu überprüfen, ob Signale
+übertragen werden.
+Prüfen Sie, ob beide Schalter gleichzeitig ein Signal senden. Der Schalter kann in den
+Schraubkanal des Seitenrahmens eingesetzt werden.
+Lassen Sie das Tor mindestens fünf Zyklen laufen und prüfen Sie, ob beide Schalter gleichzeitig
+ein Signal senden.
+Sicherheitsschalter Allen Bradley
+Bodenträger, Ausführung B: Ohne Seitenrahmenabdeckung wird der Bodentr-
+äger nicht geführt.
+Der Magnetschalter ist im Seitenrahmen eingebaut. Kabel und Steckverbindung werden
+mitgeliefert.
+Montage
+57
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.12.3
+
+--- Page 57 ---
+2.
+3.
+4.
+Magnet (Stellmotor) und Halter sind am Abschlussprofil montiert.
+1) Magnet (Stellmotor); 2) Magnetschalter; 3) Rotes/grünes Licht
+Magnetschalter gemäß Anschlussplan an das Steuerungssystem anschließen. Überprüfen Sie
+das Sicherheitsrelais, um zu sehen, ob der Magnetschalter aktiv ist. Senken Sie das Tor bis zum
+unteren Anschlag ab (ca. 9 mm Spalt zwischen Ableiter und Vierkantmutter).
+Der Magnet sollte ca. 6 mm über dem Schalter sein. Lassen Sie das Tor mindestens 5 Zyklen
+laufen und überprüfen Sie den unteren Grenzwert/die Signale.
+Montage
+58
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 58 ---
+1.
+2.
+3.
+4.
+5.
+Sicherheitsschalter Schmersal Typ 2
+Bodenträger, Ausführung B: Ohne Seitenrahmenabdeckung wird der Bodentr-
+äger nicht geführt.
+Sensor (1) gemäß Anschlussplan an das Steuerungssystem anschließen.
+Überprüfen Sie das Sicherheitsrelais, um zu sehen, ob der Magnetschalter aktiv ist. Der
+Stellmotor (2) und der Sensor müssen sich auf der gleichen Ebene (Höhe) befinden.
+Die Halterung mit dem Sensor einstellen, wenn der Stellantrieb (2) und der Sensor (1) nicht auf
+einer Ebene liegen.
+Wenn der Stellantrieb und der Sensor nicht auf der gleichen Höhe sind, die markierten
+Schrauben lösen und die Halterung mit dem Sensor einstellen. Ziehen Sie die Schrauben an.
+Die Position des Stellmotors (2) so einstellen, dass der Abstand zum Sensor mindestens 4 mm
+und höchstens 8 mm beträgt.
+Lassen Sie das Tor mindestens 5 Zyklen laufen und überprüfen Sie den unteren Grenzwert/die
+Signale.
+1.   Sensor
+2.   Stellmotor
+Montage
+59
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.12.4
+
+--- Page 59 ---
+1.
+2.
+Verkleidungen
+Montage Abdeckung, ohne Torhalterung
+Montieren Sie die Seitenrahmenabdeckungen an den Seitenrahmen. Die Anzahl der M8x10-
+Schrauben hängt vom DH ab.
+Für Anlagen ohne Kettenantrieb und ohne Varioantrieb.
+Antriebsseite: Montieren Sie die Halterung für die obere Rollenabdeckung und die Halterung
+für die Alumotorabdeckung. Verwenden Sie die beiden M8x30-Schrauben und die beiden
+Distanzhülsen Ø20x12, verwenden Sie die Gewinde des Halters Alumotorabdeckung.
+Montage
+60
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.13
+5.13.1
+
+--- Page 60 ---
+3.
+Montieren Sie die obere Rollenabdeckung der Halterung an der Innenseite der Kopfplatte.
+Verwenden Sie die beiden Schrauben M8x20 und Muttern. Die Abdeckkappe für die
+Rollenabdeckung und die beiden Clips für die Handkurbel mit den Schrauben M6x20
+befestigen.
+Montage
+61
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 61 ---
+4.
+5.
+Bringen Sie die Rollenabdeckung korrekt an (langer Flügel oder kurzer Flügel oben). Montieren
+Sie die Rollenabdeckung, verwenden Sie Unterlegscheiben Ø24 und Schrauben M8x16.
+Oberes Bild unten: Abdeckung obere Welle mit langem Flügel, Bodenträger Ausführung A und
+(DH+X) ≥ 2300 oder Bodenträger Ausführung B.
+Unteres Bild unten: Abdeckung obere Laufrolle mit kurzem Flügel, Bodenträger Ausführung A
+und (DH+x)< 2300.
+Brechen Sie die Motorabdeckung aus (unterschiedlicher Bereich je nach MCC-Position).
+Kantenschutz montieren.
+Montage
+62
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 62 ---
+6.
+1.
+2.
+3.
+4.
+Montieren Sie die Motorabdeckung mit zwei Ø24-Unterlegscheiben und M8x16-Schrauben an
+der Alumotorabdeckung.
+Montage Abdeckung, Kettenantrieb
+Für Anlagen mit Kettenantrieb.
+Bringen Sie die Rollenabdeckung korrekt an (langer Flügel oben).
+Montieren Sie die Rollenabdeckung mit Unterlegscheiben Ø24 und Schrauben M8x16.
+Trennen Sie die quadratische Perforation an der Stelle heraus, die Sie für die Kabelzuführung
+benötigen.
+Kantenschutz montieren.
+Montage
+63
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.13.2
+
+--- Page 63 ---
+5.
+1.
+2.
+Befestigen Sie die zweite Schale der Motorabdeckung mit den drei Schrauben M6x12 und
+Unterlegscheiben Ø25.
+Montage Abdeckung, mit Torhalterung
+Für Anlagen mit Torhalterung.
+Montieren Sie die Halterungen für die Rollenabdeckung an den Kopfplatten.
+Montieren Sie die Seitenrahmenabdeckungen an den Seitenrahmen. Die Anzahl der Schrauben
+hängt von der DH ab.
+Montage
+64
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.13.3
+
+--- Page 64 ---
+3.
+4.
+5.
+Montieren Sie die Rollenabdeckung mit den Schrauben M8x10 und Unterlegscheiben Ø 24 an
+den Halterungen der Rollenabdeckung.
+Montieren Sie die Kunststoffabdeckungen (4121R0634, 4121R0635) mit den Schrauben
+M8x10 und Unterlegscheiben Ø24 an den Halterungen der oberen Laufrolle.
+Verbinden Sie das Distanzprofil und die Rollenabdeckung in der Mitte des Tores mit drei Ø24-
+Unterlegscheiben und Schrauben.
+Montage
+65
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 65 ---
+6.
+1.
+Montieren Sie die Kunststoffkappe mit den vier Unterlegscheiben, zwei Muttern und zwei
+M6x30-Schrauben an der Kopfplatte.
+Montage Abdeckung, mit Torhalterung, ohne Varioantrieb
+Für Anlagen mit Torhalterung, ohne Varioantrieb.
+Befestigen Sie die Halterung für die Motorabdeckung mit den beiden Schrauben M8x16.
+Montage
+66
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.13.4
+
+--- Page 66 ---
+2.
+1.
+2.
+Montieren Sie die Motorabdeckung mit zwei Ø24 Unterlegscheiben und M8x16 Schrauben an
+der Halterung für die Motorabdeckung. Weiter mit EMV reduzieren, siehe Abschnitt 5.14. EMC
+reduzieren, PFC-Filter auf Seite 69.
+Montage Abdeckung, mit Varioantrieb
+Für Anlagen mit Varioantrieb.
+Ohne Kettenantrieb, nicht vertikal hängend: der erste Teil der Abdeckung wird mit zwei
+M12x25 Sechskantschrauben/Muttern und vier Distanzscheiben direkt am Getriebegehäuse
+befestigt.
+Heraustrennen der Perforation von Drehmomentstütze/Kabelzuführung.
+Montage
+67
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.13.5
+
+--- Page 67 ---
+3.
+4.
+5.
+6.
+Befestigen Sie die Antriebseinheit mit der Drehmomentstütze mit drei oder vier M8x30-
+Schrauben mit Muttern und zwei Hülsen am Seitenrahmen. Abbildungen sind Beispiele.
+Befestigungspunkte für Drehmomentstütze. Trennen Sie die quadratische Perforation an der
+Stelle heraus, die Sie für die Kabelzuführung benötigen.
+Kantenschutz mit den drei Schrauben M8x30 montieren.
+Befestigen Sie die zweite Schale der Motorabdeckung mit den Schrauben M6x12 und
+Unterlegscheiben Ø25 an der ersten Schale.
+Montage
+68
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 68 ---
+7.
+8.
+1.
+Befestigen Sie die Dekorplatte mit zwei Schrauben M10x20 und Muttern am zweiten Teil der
+Abdeckung.
+Ohne Torhalterung: Setzen Sie die Montage fort, siehe Abschnitt 5.8. Tormontage, Anlagen
+ohne Torhalterung auf Seite 27.
+Mit Torhalterung: Setzen Sie die Montage fort, siehe Abschnitt 5.9. Tormontage, Anlagen mit
+Torhalterung auf Seite 34.
+EMC reduzieren, PFC-Filter
+MCC mit Netzkabellänge > 2 m – nicht bei MCC (7110) .
+Um die EMV zu reduzieren, sollte ein Snap-on-Ferrit an jedem Ende des Displaykabels befestigt
+werden (lose mit Displaykabel geliefert), drehen, bis ein Klickgeräusch zu hören ist.
+Montage
+69
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+5.14
+
+--- Page 69 ---
+2.
+Schrauben Sie bei Toren mit MCC (7110) am Seitenrahmen und einem „PFC-Filter“ den Filter
+mit Halterung an das Getriebe.
+Montage
+70
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+
+--- Page 70 ---
+Demontage
+Führen Sie die Schritte in der Montageanleitung in umgekehrter Reihenfolge durch, um das Tor zu
+demontieren.
+Demontage
+71
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+6
+
+--- Page 71 ---
+·
+·
+·
+·
+·
+·
+·
+Lebenszyklus
+Inbetriebnahme
+Lesen Sie die Informationen im entsprechenden Handbuch des Steuerungssystems.
+Wartung und Reinigung
+Wenden Sie sich zur Wartung/Fehlerbehebung/Reparatur an den Lieferanten oder Hersteller.
+ASSA ABLOY Entrance Systems
+Internet: www.assaabloyentrance.com
+E-Mail: info.aaes@assaabloy.com
+Sicherheitsinformationen
+Nur der Hersteller oder geschultes Personal darf das Tor warten, prüfen oder
+warten.
+Trennen Sie vor Wartungs- und Reinigungsarbeiten die Stromversorgung mit dem
+abschließbaren Hauptschalter im Schaltkasten.
+Stellen Sie mit einem Prüfgerät sicher, dass der Schaltkasten spannungsfrei ist.
+Stellen Sie sicher, dass alle Gerüste, Leitern usw. den geltenden Sicherheitsvorschriften
+entsprechen.
+Arbeitsbereich absperren. Nach Abschluss der Arbeiten entfernen Sie alle verschütteten
+Schmiermittel und Werkzeuge oder andere Materialien vom Boden.
+Wartungsplan
+Tragen Sie alle Wartungs-, Reparatur- und Änderungsarbeiten in die Prüfliste ein, die im
+Wartungsbuch für jedes Tor enthalten ist, um sicherzustellen, dass alle Änderungen nachverfolgt
+werden können.
+Tragen Sie die erforderlichen Services, Wartungen und Durchführungshinweise in den Wartungsplan
+ein.
+Reinigung und Pflege
+Behang
+Vorsicht.
+Gefahr von Sachschäden
+Unsachgemäße Reinigung des Behangs kann die Oberfläche beschädigen
+Verwenden Sie keine Glasreiniger, da diese aggressive Substanzen enthalten.
+Verwenden Sie niemals Scheuermittel, Schaber, Rasierklingen, Spachtel usw.
+Mit warmem Wasser, einer geringen Dosierung eines milden Kunststoffreinigers
+und einem sauberen, weichen und nicht flauschigen Tuch reinigen.
+Lebenszyklus
+72
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+7
+7.1
+7.2
+7.2.1
+7.2.2
+7.2.3
+7.2.3.1
+
+--- Page 72 ---
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Torrahmen
+Vorsicht!
+Gefahr von Sachschäden
+Durch unsachgemäße Reinigung des Torrahmens kann die Oberfläche be-
+schädigt werden
+Keine Hochdruckreiniger verwenden.
+Staub mit einem weichen Tuch entfernen.
+Stärkere Verschmutzungen mit Wasser und einem handelsüblichen Flüssigreinig-
+er entfernen.
+Metalloberflächen, die mit Fett oder Öl verschmutzt sind, sollten mit einem lö-
+sungsmittelhaltigen Mittel gereinigt werden.
+Umgebung
+Insbesondere nach Wartungsarbeiten kann der Boden in unmittelbarer Nähe der Seitenrahmen
+verschmutzt sein. Diese vorsichtig entfernen.
+Außerbetriebnahme
+Die Demontage erfolgt in umgekehrter Reihenfolge zum Zusammenbau.
+Trennen Sie das Tor von der Stromversorgung, bevor Sie es demontieren. Stellen Sie
+insbesondere sicher, dass alle Federn entspannt sind.
+Verschleißteile prüfen und gegebenenfalls vor dem Zusammenbau austauschen.
+Steckverbindungen prüfen, Kabel nicht knicken.
+Alle Komponenten an einem sauberen, trockenen Ort lagern.
+Transport und Lagerung
+Transport
+Die einzelnen Torkomponenten dürfen nur am Montageort von der Transportpalette entfernt
+werden.
+Gefahr!
+Verletzungsgefahr.
+Ein unsachgemäßer Transport kann zum Verrutschen und Herabfallen der
+Last führen.
+Beachten Sie beim Transport zum Montageort die öffentlichen Sicherheitsvors-
+chriften.
+Sichern Sie die Tor gegen Kippen und Verrutschen.
+Heben Sie das Tor an seinem Schwerpunkt an, um ein seitliches Verrutschen zu
+verhindern.
+Lebenszyklus
+73
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+7.2.3.2
+7.2.3.3
+7.3
+7.4
+7.4.1
+
+--- Page 73 ---
+Abmessungen und Gewichte
+Abmessungen von Transportpalette und Tor (mm)
+Tor
+Länge
+Breite x Höhe
+RP400 (2611)
+DW oder DH + 500
+500 x 400
+Antriebseinheit und Steuerungssystempalette (mm)
+Tor
+Länge x Breite x Höhe
+RP400 (2611)
+800 x 600 x 500
+Gewicht Tor mit Palette (kg), Zwischenwerte interpolierbar
+DW x DH (m)
+2 x 2
+2 x 2,5
+3 x 3
+4 x 3,5
+4 x 5
+5 x 5
+6 x 5
+RP400 (2611)
+140
+175
+210
+270
+330
+380
+420
+DW = Breite der Toröffnung
+DH = Höhe der Toröffnung
+Lagerung
+Das teilweise vormontierte Tor wird auf einer Transport-/Montagepalette angeliefert und ist
+eingeschweißt. Wenn die Verpackung unbeschädigt ist, kann das Tor einige Tage im Freien gelagert
+werden.
+Entsorgung
+Die Torverpackung kann an den Hersteller zurückgeschickt werden. Defekte Torkomponenten
+müssen vom Kunden umweltgerecht entsorgt werden.
+Defekte elektronische Bauteile sind als Sondermüll zu entsorgen.
+Lebenszyklus
+74
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+7.4.1.1
+7.4.2
+7.5
+
+--- Page 74 ---
+Anhang
+Technische Daten
+Technische Daten
+RP400 (2611)
+Torprinzip
+Rolltor
+Bewegungsrichtung
+Vertikal
+Anwendung
+Innentore
+Verfügbare Größe, W min
+750 mm
+Verfügbare Größe, B max.
+4.000 mm
+Verfügbare Größe, H min
+750 mm
+Verfügbare Größe, H max
+3.500 mm
+Montageort
+Innerhalb einer Struktur
+Torrahmen
+Aluminium
+Bodenprofil
+Aluminium
+Obere Laufrolle
+Aluminium
+Behang
+PVC oder gewebtes Polyester-Monofilament
+Rollenabdeckung *
+Aluminium
+Motorverkleidung
+Aluminium
+Antrieb
+Elektrisch
+Steuerungssystem
+MCC = MCC (7110)/MCC
+Max. Öffnungsgeschwindigkeit MCC
+2,4 m/s
+Max. Schließgeschwindigkeit MCC
+1,8 m/s
+MCC-Netzanschluss
+3/(N)/PE 380–480 V, 50/60 Hz, 12 A Sicherung
+MCC mit vorgeschaltetem Transformator
+3/(N)/PE 220 V, 230 V, 500 V, 50/60 Hz
+Netzanschluss ohne Steuerungssystem:
+3/(N)/PE 230 V, 50 Hz
+3/(N)/PE 380–415 V, 50 Hz
+Motorstrom
+0,75 kW
+Versorgungsspannung
+24 VDC
+Temperaturbereich Betrieb
++10 °C ± 45 °C
+Motorschutzklasse
+IP55
+Anzahl Zyklen/Min.
+Max. 5
+Geräuschpegel
+70 dBA
+*Für Tore mit einer Höhe von < 2300 mm ist eine Abdeckung der oberen Welle vorgeschrieben, um
+die Anforderungen der Norm EN 13241-1 zu erfüllen.
+Anhang
+75
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8
+8.1
+
+--- Page 75 ---
+Maximale Öffnungs- und Schließgeschwindigkeiten
+und -zeiten
+Modell
+Torhöhe m
+MCC (7110)/MCC
+MCC (7110)/MCC
+Öffnen max. *
+(UL-Antrieb)
+m/s
+Schließen
+max. *
+(UL-Antrieb)
+m/s
+Öffnungszeit*
+(UL-Antrieb) s
+Schließzeit*
+(UL-Antrieb) s
+RP400 KL
+1,0 **
+1,7 (1,6)
+1,2 (1,2)
+1,2 (1,3)
+1,5 (1,5)
+RP400 VL
+1,0 **
+1,7 (1,6)
+1,5 (1,5)
+1,2 (1,3)
+1,3 (1,4)
+RP400 KL
+1,5 **
+2,0 (1,9)
+1,2 (1,2)
+1,4 (1,6)
+1,8 (1,9)
+RP400 VL
+1,5 **
+2,0 (1,9)
+1,6 (1,5)
+1,4 (1,6)
+1,6 (1,7)
+RP400 KL
+2.0 **
+2,2 (2,0)
+1,3 (1,3)
+1,6 (1,8)
+2,3 (2,3)
+RP400 VL
+2.0 **
+2,2 (2,0)
+1,7 (1,6)
+1,6 (1,8)
+2,0 (2,0)
+RP400 KL
+2,5 **
+2,3 (2,1)
+1,4 (1,3)
+1,9 (2,1)
+2,6 (2,7)
+RP400 VL
+2,5 **
+2,3 (2,1)
+1,8 (1,7)
+1,9 (2,1)
+2,3 (2,3)
+RP400 KL
+3,0
+2,3 (2,2)
+1,2 (1,2)
+2,1 (2,2)
+3,5 (3,5)
+RP400 VL
+3,0
+2,3 (2,2)
+1,6 (1,5)
+2,1 (2,2)
+2,8 (2,8)
+RP400 KL
+3.5
+2,4 (2,3)
+1,3 (1,3)
+2,3 (2,4)
+3,9 (3,9)
+RP400VL
+3.5
+2,4 (2,3)
+1,8 (1,6)
+2,3 (2,4)
+3,2 (3,2)
+KL = Sicherheitsleiste
+VL = vorlaufende Lichtschranke.
+* Die aufgeführten Werte sind Richtwerte, die von den an den einzelnen Toren angezeigten Min./
+Max.-Werten abweichen können. Insbesondere längere Zykluszeiten während des Prozesses können
+zu wesentlichen Änderungen führen.
+Behangdurchbiegung
+1,0 m
+1,5 m
+2,0 m
+2,5 m
+3,0 m
+3,5 m
+4,0 m
+W
+F
+S
+F
+S
+F
+S
+F
+S
+F
+S
+F
+S
+F
+S
+2.2
+80
+90
+80
+95
+80
+100
+80
+105
+80
+110
+80
+115
+80
+120
+2.2
+100
+95
+100
+105
+100
+110
+100
+115
+100
+125
+100
+130
+100
+135
+2.2
+150
+95
+150
+125
+150
+125
+150
+135
+150
+145
+150
+155
+150
+160
+2.2
+200
+100
+200
+135
+200
+135
+200
+150
+200
+160
+200
+175
+200
+180
+2.2
+250
+105
+250
+140
+250
+140
+250
+170
+250
+180
+250
+195
+250
+200
+Anhang
+76
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8.2
+8.3
+
+--- Page 76 ---
+1.
+1,0 m
+1,5 m
+2,0 m
+2,5 m
+3,0 m
+3,5 m
+4,0 m
+W
+F
+S
+F
+S
+F
+S
+F
+S
+F
+S
+F
+S
+F
+S
+2.2
+300
+110
+300
+145
+300
+150
+300
+185
+300
+195
+300
+215
+300
+220
+2.2
+400
+115
+400
+150
+400
+165
+400
+205
+400
+220
+400
+245
+400
+250
+2.2
+600
+125
+600
+180
+600
+200
+600
+230
+600
+255
+600
+280
+600
+290
+2.2
+800
+145
+800
+190
+800
+225
+800
+260
+800
+285
+800
+310
+800
+325
+2.2
+1000 155
+1000 205
+1000 245
+1000 270
+1000 295
+1000 315
+1000 330
+-
+295* 110* 90*
+110* 110* 115* 120* 125* 125* 135* 130* 145* 135* 150*
+*Das Abschlussprofil hebt sich um 10 mm und der Schmersalschalter wird deaktiviert.
+RP400 (2611) mit Rolltex-Behang
+Geprüft nach DIN 18008–4, A (vor TRAV, Technische Regeln für die Verwendung von
+Fallschutzverglasung).
+Prüfposition
+Anhang
+77
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8.4
+
+--- Page 77 ---
+Übersichtszeichnung
+Übersichtszeichnung RP400 (2611), keine Torhalterung
+Anhang
+78
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8.5
+8.5.1
+
+--- Page 78 ---
+Übersichtszeichnung RP400 (2611), mit Torhalterung
+Anhang
+79
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8.5.2
+
+--- Page 79 ---
+Befestigungsplan
+Befestigungsplan RP400 (2611)
+Anhang
+80
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8.6
+8.6.1
+
+--- Page 80 ---
+1.
+2.
+3.
+Wartungsplan
+Serviceintervall
+Die Wartungsintervalle sind in den Tabellen für den Wartungsplan angegeben.
+6 Monate oder 100.000 Zyklen
+12 Monate
+Reinigung nach Bedarf
+Montagebefestigungen
+Service
+Serviceintervall
+Ziehen Sie die Schrauben an.
+1
+Antrieb
+Service
+Serviceintervall
+Zustand und Funktion des Bremsentriegelungshebels überprüfen.
+1
+Halterung der Drehmomentstütze und des Puffers überprüfen.
+1
+Wenn der Abstand der Bremse nicht auf 0,2 mm eingestellt werden kann, muss die Bremse
+ausgetauscht werden.
+Obere Laufrolle
+Service
+Serviceintervall
+Lagerhaltering wieder anziehen.
+1
+Antriebswelle
+Service
+Serviceintervall
+Flanschlager nachziehen
+1
+Feste Position der Wellenverlängerung an der oberen Laufrolle aus Alumini-
+um überprüfen
+1
+Torblatt
+Service
+Serviceintervall
+Blatt auf Schnitte und Schleifspuren an der Führung überprüfen.
+1
+Windzapfen auf festen Sitz und Verschleißspuren überprüfen (gegebenen-
+falls austauschen).
+1
+Überprüfen Sie die Verbindung zwischen dem Torblatt und dem Bodenträg-
+er.
+1
+Die Materialstärke vom quadratischen Loch der Windzapfen bis zur Auflagefläche zum
+Seitenpfosten sollte 1 mm nicht unterschreiten.
+Bodenprofil
+Service
+Serviceintervall
+Überprüfen Sie den festen Sitz und den Zustand des Profils, der Führungs-
+stücke, eventuell des flexiblen Kabelkanals und der Gleitstücke.
+Tauschen Sie deformierte Führungsstücke und Gleitstücke aus.
+1
+Anhang
+81
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8.7
+8.7.1
+8.7.2
+8.7.3
+8.7.4
+8.7.5
+8.7.6
+8.7.7
+
+--- Page 81 ---
+Service
+Serviceintervall
+Überprüfen Sie den Zustand der Sicherheitsleiste/vorlaufenden Lichts-
+chranke, des Kabels und der Kabelkette.
+Lassen Sie das untere Profil der Sicherheitsleiste auf ein Objekt herab. Das Tor
+muss nach dem Berühren des Objekts in die Endposition oben zurückkehren.
+Mit vorlaufender Lichtschranke halten Sie die flache Hand senkrecht unter
+das Abschlussprofil in ca. 1 m Höhe. Das Tor muss in der endgültigen Torposi-
+tion reversieren, ohne das Gummiprofil zu berühren.
+1
+Seitenpfosten
+Service
+Serviceintervall
+Befestigung und Zustand der Profile mit Komponenten prüfen.
+1
+Kabelführung prüfen, ggf. Kabelkette für Kabel.
+1
+Installation und Funktion der Lichtschranke oder des Lichtgitters prüfen.
+1
+Lichtschranke oder Lichtgitteroptik reinigen.
+3
+Funktion der Lichtschranke
+Beide LEDs der Lichtschranke müssen eingeschaltet sein. Grüne Sender-LED, rote Empfänger-LED
+Die rote LED des Empfängers erlischt nach Unterbrechung der Lichtschranke. Das Tor muss nach
+Unterbrechung der Lichtschranke in die Endposition oben fahren.
+Die Lichtschrankenoptik kann bei Bedarf mit einem weichen Tuch und Wasser gereinigt werden.
+Funktion des integrierten Lichtgitters
+Der Sender befindet sich im linken Seitenrahmen, grüne + gelbe LED. Der Empfänger befindet sich
+im rechten Seitenrahmen, grüne LED. Schaltet für Sekundenbruchteil auf rote LED, bevor das Tor
+schließt.
+Die LED des Empfängers wechselt nach Unterbrechung des Lichtgitters von grün auf rot. Das Tor
+muss nach Unterbrechung des Lichtgitters in die Endposition oben fahren.
+Die Lichtgitteroptik kann bei Bedarf mit einem weichen Tuch und Wasser gereinigt werden.
+Schaltkasten und zusätzliche Komponenten (Stellmotoren)
+Service
+Serviceintervall
+Vollständigkeit des Schaltplans prüfen.
+2
+Hauptschalter/CEE-Stecker und Schaltkastenverriegelung prüfen.
+2
+Befestigung überprüfen.
+2
+Elektrische Funktionen
+Service
+Serviceintervall
+Torbewegungen.
+1
+Öffnungs- und Schließposition des Bodenträgers prüfen.
+1
+Anhang
+82
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8.7.8
+8.7.9
+8.7.10
+
+--- Page 82 ---
+·
+·
+·
+Sicherheitsvorrichtungen und Stellmotoren
+Service
+Serviceintervall
+Funktion und Befestigung der Endschalter prüfen.
+1
+Elektrische Komponenten
+Service
+Serviceintervall
+Auf mechanische Schäden achten.
+2
+Mechanische Funktionen
+Service
+Serviceintervall
+Prüfen Sie das Vorhandensein und die Funktion der
+Nothandkurbelöffnung.
+1
+Überprüfen Sie den Aufrollvorgang des Torblatts.
+1
+Herstellerzertifikate
+Einbauerklärung
+ASSA ABLOY Entrance Systems erklärt, dass es sich bei dem ASSA ABLOY RP400 (2611)
+Schnelllauftor um eine unvollständige Maschine im Sinne der Maschinenrichtlinie 2006/42/EG
+handelt. Das Produkt ist ein Maschinenschutztor mit der Eigenschaft, die Gefahrenbereiche einer
+anderen Anlage abzutrennen und so das Risiko für Personen und Güter zu reduzieren.
+Die Inbetriebnahme unseres Tores ist solange untersagt, bis festgestellt wurde, dass die Anlage, in
+die unser Tor eingebaut ist, den Bestimmungen der EG-Maschinenrichtlinie entspricht.
+EU-Konformitätserklärung
+ASSA ABLOY Entrance Systems erklärt, dass ein von uns verkauftes Tor die grundlegenden
+Gesundheits- und Sicherheitsanforderungen aller relevanten europäischen Richtlinien erfüllt und
+daher diesen Richtlinien entspricht. Die EG-Konformitätserklärung ist die Grundlage für die CE-
+Kennzeichnung einer vollständigen Maschine/Anlage.
+Prototypentest
+Die Vorlage eines Prototypentests stellt einen zusätzlichen freiwilligen Nachweis des Herstellers
+über die Erfüllung der „Konformität“ dar. Eine staatlich geführte, staatlich beauftragte oder staatlich
+anerkannte Institution (z.B. Berufsgenossenschaft oder TÜV) wird auf Anforderung die Konformität
+von z.B. einem Maschinenschutztor auf Basis der für ihren Verwendungszweck festgelegten
+einschlägigen aktuellen Normen, Vorschriften und Standards und diese Konformität durch
+Ausstellung eines Prototypentests bescheinigen.
+Der Prototypentest bleibt gültig bis:
+Die im Prototypenversuch angegebene Gültigkeitsdauer abläuft.
+Eine Änderung oder Aufhebung der einschlägigen Normen, Standards und Vorschriften in
+Bezug darauf erfolgt.
+Zur Ausgabe des Prototypentests kommt es zu einer Änderung des Umfangs, des Designs oder
+der Art der Verwendung des Produkts, das Gegenstand des Prototypentests ist.
+Anhang
+83
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+8.7.11
+8.7.12
+8.7.13
+8.8
+8.8.1
+8.8.2
+8.8.3
+
+--- Page 83 ---
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Ersatzteilliste
+Seitenrahmen
+Unterbau (selbsttragend)
+Abdeckung obere Laufrolle
+Obere Laufrolle
+Antrieb
+Motorverkleidung
+Steuerung
+Sicherheitsschalter
+Torbehang
+Bodenträger
+Ersatzteilliste
+84
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+9
+
+--- Page 84 ---
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+85
+
+--- Page 85 ---
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+86
+
+--- Page 86 ---
+Bedienungsanleitung
+Schnelllauftor
+ASSA ABLOY RP400 (2611)
+87
+
+--- Page 87 ---
+Die ASSA ABLOY Gruppe ist der weltweit führende Anbieter von
+Zugangslösungen.
+Tagtäglich erleben Milliarden Menschen mit unserer Hilfe eine offenere Welt.
+ 
+ASSA ABLOY Entrance Systems ist ein Anbieter von Lösungen für einen
+effizienten und sicheren Waren- und Personenverkehr. Unser Sortiment
+umfasst eine breite Palette an automatischen Tür-, Tor- und Verladesystemen
+für Wohn-, Industrie- und Gewerbegebäude, Umzäunungen sowie alle damit
+verbundenen Serviceleistungen.
+©ASSA ABLOY  |  UM.RP400 (2611)/de-DE/6410R0482-03 Änderungen an technischen Daten ohne vorherige Ankündigung vorbehalten

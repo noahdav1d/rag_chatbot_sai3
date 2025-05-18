@@ -15,11 +15,11 @@ def generate_embeddings(chunks):
 # Beispielnutzung
 if __name__ == "__main__":
     from split_text import split_text_into_chunks
-    from extract_pdf import extract_text_from_pdf
+    from extract_pdf import clean_and_extract_text_from_pdf
 
     # PDF-Datei einlesen und in Chunks aufteilen
     pdf_path = "./test_data\\User_manual_ASSA_ABLOY_RP400_de-DE.pdf"
-    raw_text = extract_text_from_pdf(pdf_path)
+    raw_text = clean_and_extract_text_from_pdf(pdf_path)
     chunks = split_text_into_chunks(raw_text)
 
     # Embeddings für Chunks erzeugen

@@ -1,0 +1,34 @@
+1. What is the standard panel section thickness for the Crawford OH1042F sectional door? 
+#
+The standard panel section thickness for the Crawford OH1042F is 44 mm.
+
+2.Can the Crawford OH1082P sectional door be equipped with a pedestrian pass-through door (Schlupftür)? How does this compare to the options available for 
+the Crawford OH1042F regarding a pass-through door? 
+#
+Based on the provided excerpts for the Crawford OH1082P, a pedestrian pass-through door (Schlupftür) 
+is not listed as an available option. In comparison, the Crawford OH1042F sectional door can be equipped with a pass-through door. Available options for the 
+OH1042F include a pass-through door with a 180 mm threshold and a pass-through door with a low threshold (30 mm).
+
+3.Describe the expected lifespan of the springs for both the Crawford OH1042F and OH1082P sectional doors, 
+including the optional increased lifespan and the factor upon which it depends. 
+#
+For the Crawford OH1042F sectional door, the expected lifespan of the springs is 20,000 load cycles. Optionally, the lifespan can be increased up to a 
+maximum of 100,000 load cycles, depending on the gate configuration ("abhängig von der Torkonfiguration"). The provided excerpts for the Crawford OH1082P
+sectional door do not state the expected lifespan of the springs.
+
+4.Which visual aid system is integrated into the ASSA ABLOY DL6220TA and DL6220T loading docks via the ASSA ABLOY DE6190DI product, 
+and what does it use to facilitate the docking process? 
+#
+The visual aid system integrated into the ASSA ABLOY DL6220TA and DL6220T loading docks is the ASSA ABLOY DE6190DI Dock-IN. 
+This system is described as the world's first combination of visual docking aid and traffic light system in one unit. To facilitate 
+the docking process, the ASSA ABLOY Dock-IN uses white light bars and a RED signal.
+
+5.Describe two different types of track systems (Laufschienensets) available for the Crawford OH1042F sectional door, based on their names and the 
+implied movement or configuration: the "LL - Niedrigsturzbeschlag" and the "VL - Vertikalbeschlag". How do these track systems generally differ in 
+how the door operates or the space required? 
+#
+Two optional track systems for the Crawford OH1042F are "LL - Niedrigsturzbeschlag" and "VL - Vertikalbeschlag".
+LL - Niedrigsturzbeschlag (Low Headroom Fitting): Suitable for low ceilings, aiming for maximum clear height with minimal room height. 
+The door panels turn back horizontally closer to the ceiling.
+VL - Vertikalbeschlag (Vertical Lift Fitting): The name implies the door opens by moving straight up vertically. This system requires significant clear 
+height above the door (LH + 365 mm needed for OH1042F), minimizing horizontal space needs.
