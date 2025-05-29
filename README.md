@@ -36,19 +36,19 @@ pip install -r requirements.txt
 Rename the .env file to .env
 Add your Together API Key
 
-<h2>Executing the scripts</h2>
+<h2>Executing docker</h2>
 
-- Open a terminal in VS Code
+- You need to have Docker installed!
+
+- Start Docker
+
+- Open any terminal (for example in VS Code)
 
 - Execute the following command:
 
 ```
-python extract_pdf.py
-python split_text.py
-python embeddings.py
-python faiss_db.py
-python load_index.py
-python retriever.py
-python rag_chain.py
-python rag_loop.py
+docker-compose up -d --build    
+
+docker-compose logs -f app  
+
 ```
