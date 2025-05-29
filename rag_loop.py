@@ -23,4 +23,4 @@ def answer_question(question):
 iface = gr.Interface(fn=answer_question, inputs="text", outputs="text")
 
 # Anwendung starten
-iface.launch()
+iface.launch(server_name="0.0.0.0", server_port=7860)
