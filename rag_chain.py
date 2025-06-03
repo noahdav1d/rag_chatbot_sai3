@@ -2,28 +2,28 @@ import os
 from dotenv import load_dotenv
 from langchain.chains import RetrievalQA
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chat_models import init_chat_model
+from retriever import retriever
 
-# .env-Datei laden
+# Load .env file
 load_dotenv()
 
-# API-Key holen
+# Get API key from .env file
 api_key = os.getenv("TOGETHER_API_KEY")
 if not api_key:
-    raise ValueError("TOGETHER_API_KEY nicht gefunden. Bitte in der .env-Datei setzen.")
+    raise ValueError("TOGETHER_API_KEY not found. Please set it in the .env file.")
 
+# Provide key for model access
 os.environ["TOGETHER_API_KEY"] = api_key
 
-# Modell & Retriever initialisieren (nur einmal beim Start)
-embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-llm = init_chat_model("meta-llama/Llama-3.3-70B-Instruct-Turbo-Free", model_provider="together")
-db = FAISS.load_local("faiss_index", embedding_model, allow_dangerous_deserialization=True)
-retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 3})
+# 1. Load model
+llm = init_chat_model("meta-llama/Llama-3-70B-Instruct", model_provider="together")
 
-# RAG-Chain einmalig bauen
+# 2. Create RAG chain
 qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
 
-# Funktion für externe Nutzung
+# 3. Function to call the chain with a question
 def run_rag_chain(question: str) -> str:
+    # Returns the answer from the RAG chain
     return qa_chain.run(question)

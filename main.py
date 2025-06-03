@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Query
-from rag_chain import run_rag_chain  # <-- das gibt's wirklich!
+from rag_chain import run_rag_chain
 
 app = FastAPI()
 
@@ -8,6 +8,7 @@ def root():
     return {"message": "RAG Chatbot API is running"}
 
 @app.get("/ask")
-def ask(question: str = Query(..., description="Frage an den RAG-Chatbot")):
+def ask(question: str = Query(..., description="Ask a question to the RAG chatbot")):
+    # Calls the RAG chain with the user's question and returns the answer
     answer = run_rag_chain(question)
     return {"question": question, "answer": answer}
