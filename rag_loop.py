@@ -1,5 +1,6 @@
 import os
 import streamlit as st
+from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 from langchain.chat_models import init_chat_model
 from langchain_community.vectorstores import FAISS
@@ -38,10 +39,30 @@ def load_rag_models():
         search_kwargs={"k": 5}  # Increased to 5 for more sources
     )
     
+    # Prompt template
+    prompt_template = PromptTemplate(
+        input_variables=["context", "question"],
+        template="""
+    Du bist ein hilfreicher Assistent, der bei der Beantwortung von Fragen über die Firma „ASSA ABLOY Entrance Systems“ und deren Produkte hilft.
+    Bei den bereitgestellten Dokumenten handelt es sich um Benutzerhandbücher und technische Spezifikationen der Produkte.
+    Bei den Produkten handelt es sich um Anlagen, die typischerweise in Distributionszentren und Lagern zu finden sind, wie z. B. Sektionaltore, Schnelllauftore und Andocklösungen.
+    Jeder Produktarchetyp besteht aus verschiedenen Typen, die einen oder mehrere Unterschiede in den technischen Spezifikationen aufweisen, die sie einzigartig machen. Der Produkttyp wird im Dateinamen erwähnt und sollte als Referenz verwendet werden.
+    Beantworte die Fragen so, wie es ein menschlicher Experte auf dem Gebiet der Torsyteme oder Verladetechnik machen würde.
+    Beantworte die Frage direkt, ohne die Quelle der Information zu nennen.
+    Kontext:
+    {context}
+    Frage:
+    {question}
+    Antwort:
+    """
+    )
+
     # RAG-Chain without return_source_documents for simpler answers
     qa_chain = RetrievalQA.from_chain_type(
-        llm=llm, 
-        retriever=retriever
+    llm=llm,
+    chain_type="stuff",
+    retriever=retriever,
+    chain_type_kwargs={"prompt": prompt_template}
     )
     return qa_chain
 
