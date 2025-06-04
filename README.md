@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 <h3>5. Add Together API Key</h3>
-Rename the .env file to .env
+Rename the .env.example file to .env
 Add your Together API Key
 
 <h2>Executing the scripts</h2>
@@ -45,11 +45,7 @@ Add your Together API Key
 ```
 python extract_pdf.py
 python split_text.py
-python embeddings.py
 python faiss_db.py
-python load_index.py
 python retriever.py
-python rag_chain.py
-python rag_loop.py
 streamlit run rag_loop.py
 ```
