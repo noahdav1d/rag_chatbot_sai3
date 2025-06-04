@@ -51,4 +51,5 @@ python load_index.py
 python retriever.py
 python rag_chain.py
 python rag_loop.py
+streamlit run rag_loop.py
 ```

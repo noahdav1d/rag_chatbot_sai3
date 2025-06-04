@@ -28,7 +28,7 @@ qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
  
 # 4. Testfrage stellen
 frage = "Was ist das für ein Tor?"
-antwort = qa_chain.run(frage)
+antwort = qa_chain.invoke(frage)
  
 print("🤖 Antwort:")
 print(antwort)

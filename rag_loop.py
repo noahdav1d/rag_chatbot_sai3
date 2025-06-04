@@ -144,7 +144,7 @@ if prompt := st.chat_input("Ask your question here..."):
             try:
                 # Generate RAG response (without source citations)
                 with st.spinner("🤔 Thinking..."):
-                    response = qa_chain.run(prompt)
+                    response = qa_chain.invoke(prompt)
                 
                 # Add response to current chat
                 st.session_state.chats[st.session_state.current_chat].append({"role": "assistant", "content": response})
