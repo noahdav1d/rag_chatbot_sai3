@@ -1,31 +1,26 @@
 services:
-  app:
-    build: .
-    ports:
-      - "8000:8000"
-    volumes:
-      - .:/app
-    environment:
-      - OPENAI_API_KEY=${OPENAI_API_KEY}
-    depends_on:
-      - chromadb
-
   chromadb:
     image: ghcr.io/chroma-core/chroma:latest
+    container_name: chromadb
     ports:
       - "8001:8000"
     volumes:
       - chroma_data:/chroma_data
 
   chatbot:
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag_chatbot
     ports:
-      - "7860:7860"
+      - "7860:7860"  # Gradio frontend
     environment:
       - TOGETHER_API_KEY=${TOGETHER_API_KEY}
     volumes:
       - .:/app
     command: python rag_loop.py
+    depends_on:
+      - chromadb
 
 volumes:
   chroma_data: {}
