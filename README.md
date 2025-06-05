@@ -43,9 +43,5 @@ Add your Together API Key
 - Execute the following command:
 
 ```
-python extract_pdf.py
-python split_text.py
-python faiss_db.py
-python retriever.py
-streamlit run rag_loop.py
+docker-compose --build
 ```
