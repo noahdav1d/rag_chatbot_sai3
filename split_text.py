@@ -1,7 +1,7 @@
 import os
 from extract_pdf import clean_and_extract_text_from_pdf
 
-def split_text_into_chunks(text, chunk_size=500, overlap=50):
+def split_text_into_chunks(text, chunk_size=2000, overlap=50):
     """
     Split text into overlapping chunks.
 
