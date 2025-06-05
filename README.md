@@ -45,3 +45,14 @@ Add your Together API Key
 ```
 docker-compose --build
 ```
+
+- Alternatively without docker:
+
+```
+python extract_pdf.py
+python split_text.py
+python faiss_db.py
+python retriever.py
+python rag_loop.py
+streamlit run rag_loop.py
+```
