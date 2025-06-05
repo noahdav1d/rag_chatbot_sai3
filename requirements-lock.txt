@@ -1,3 +1,6 @@
+# Generated lock to pin exact versions based on requirements.txt
+# Can be regenerated with `pip freeze > requirements-lock.txt` after successful install
+
 PyMuPDF==1.25.5
 langchain==0.3.25
 langchain_community==0.3.23
@@ -15,3 +18,4 @@ scikit-learn==1.4.2
 requests==2.31.0
 urllib3==2.2.1
 tqdm==4.66.2
+huggingface-hub==0.30.2

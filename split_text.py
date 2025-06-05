@@ -1,29 +1,40 @@
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+import os
+from extract_pdf import clean_and_extract_text_from_pdf
 
-def split_text_into_chunks(text, source_file="", chunk_size=2000, chunk_overlap=200):
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=chunk_size,
-        chunk_overlap=chunk_overlap,
-        separators=["\n\n", "\n", " ", ""]
-    )
+def split_text_into_chunks(text, chunk_size=500, overlap=50):
+    """
+    Split text into overlapping chunks.
 
-    chunks = text_splitter.split_text(text)
-    if source_file:
-        chunks = [f"Source: {source_file}\n\n{chunk}" for chunk in chunks]
+    Args:
+        text (str): Full text to split.
+        chunk_size (int): Size of each chunk.
+        overlap (int): Number of characters to overlap between chunks.
+
+    Returns:
+        list of str: List of text chunks.
+    """
+    chunks = []
+    start = 0
+    while start < len(text):
+        end = start + chunk_size
+        chunks.append(text[start:end])
+        start += chunk_size - overlap
     return chunks
 
-# Beispielnutzung
+# Optional entry point for batch processing
 if __name__ == "__main__":
-    from extract_pdf import clean_and_extract_text_from_pdf
+    folder_path = "./test_data"
+    output_folder = "./cleaned_text"
+    os.makedirs(output_folder, exist_ok=True)
 
-    # PDF-Datei einlesen
-    pdf_path = "./test_data\\User_manual_ASSA_ABLOY_RP400_de-DE.pdf"
-    raw_text = clean_and_extract_text_from_pdf(pdf_path)
-
-    # Text in Chunks aufteilen
-    chunks = split_text_into_chunks(raw_text)
-
-    # Beispielausgabe
-    print(f"Anzahl Chunks: {len(chunks)}")
-    print("\nErster Chunk:\n")
-    print(chunks[0])
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".pdf"):
+            pdf_path = os.path.join(folder_path, filename)
+            try:
+                raw_text = clean_and_extract_text_from_pdf(pdf_path)
+                output_file = os.path.join(output_folder, filename.replace(".pdf", ".txt"))
+                with open(output_file, "w", encoding="utf-8") as f:
+                    f.write(raw_text)
+                print(f"✅ Saved cleaned text to: {output_file}")
+            except Exception as e:
+                print(f"❌ Failed to process {filename}: {e}")
