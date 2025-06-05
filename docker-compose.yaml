@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  chatbot:
+    build: .
+    container_name: rag_chatbot
+    ports:
+      - "7860:7860"
+    volumes:
+      - .:/app
+    environment:
+      - TOGETHER_API_KEY=${TOGETHER_API_KEY}
+    command: bash -c "./run_setup.sh && streamlit run rag_loop.py --server.port 7860 --server.address 0.0.0.0"
