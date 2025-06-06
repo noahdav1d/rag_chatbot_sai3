@@ -8,8 +8,7 @@
   <li>Docker</li>
 </ul>
 
-<h2> Docker And Python</h2>
-<h2>Installation</h2>
+<h2>Python Installation</h2>
 <h3>1. Clone the repository:</h3>
 
 ```
@@ -24,7 +23,6 @@ cd rag_chatbot_sai3
 Rename the .env.example file to .env and Add your Together API Key
 ```
 
-<h2>Python setup</h2>
 <h3>3. Create a virtual environment</h3>
 
 ```
@@ -56,6 +54,19 @@ pip install -r requirements.txt
 ```
 
 <h2>Docker Setup</h2>
+<h3>1. Clone the repository:</h3>
+
+```
+git clone https://github.com/noahdav1d/rag_chatbot_sai3.git
+cd rag_chatbot_sai3
+```
+
+<h2>Togeteher API Key</h2>
+<h3>2. Add Together API Key</h3>
+
+```
+Rename the .env.example file to .env and Add your Together API Key
+```
 <h3>3. Start Docker Compose</h3>
 
 ```
