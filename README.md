@@ -5,6 +5,7 @@
   <li>Python 3.11+ and Bash</li>
   <li> or </li>
   <li>Docker</li>
+  <li>Git</li>
 </ul>
 
 <h2>Installation</h2>
@@ -19,9 +20,8 @@ cd rag_chatbot_sai3
 
 ```
 python -m venv venv
+(or on Mac): python3 -m venv venv
 ```
-- on Mac:
-python3 -m venv venv
 
 <h3>3. Activate the virtual environment</h3>
 
