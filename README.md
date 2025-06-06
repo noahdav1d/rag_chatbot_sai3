@@ -52,6 +52,9 @@ pip install -r requirements.txt
 ./run_setup_python.sh
 ```
 
+<h3>7. Open Application</h2>
+
+
 <h2>Docker Setup</h2>
 <h3>1. Clone the repository:</h3>
 
@@ -70,3 +73,5 @@ Rename the .env.example file to .env and Add your Together API Key
 ```
 docker-compose up --build
 ```
+
+<h3>4. Open App</h3>
