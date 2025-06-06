@@ -47,6 +47,7 @@ pip install -r requirements.txt
 ```
 
 <h2>Docker Setup</h2>
+
 ```
 docker-compose up --build
 ```
