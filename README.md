@@ -48,6 +48,8 @@ pip install -r requirements.txt
 
 <h2>Docker Setup</h2>
 
+- Start Docker Compose
+
 ```
 docker-compose up --build
 ```
