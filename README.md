@@ -16,7 +16,6 @@ git clone https://github.com/noahdav1d/rag_chatbot_sai3.git
 cd rag_chatbot_sai3
 ```
 
-<h2>Togeteher API Key</h2>
 <h3>2. Add Together API Key</h3>
 
 ```
@@ -61,7 +60,6 @@ git clone https://github.com/noahdav1d/rag_chatbot_sai3.git
 cd rag_chatbot_sai3
 ```
 
-<h2>Togeteher API Key</h2>
 <h3>2. Add Together API Key</h3>
 
 ```
