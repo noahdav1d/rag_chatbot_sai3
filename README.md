@@ -2,7 +2,9 @@
 
 <h2>Prerequisites</h2>
 <ul>
-  <li>Python 3.11+</li>
+  <li>Python 3.11 and Bash+</li>
+  <li> or </li>
+  <li>Docker</li>
 </ul>
 
 <h2>Installation</h2>
@@ -12,12 +14,14 @@
 git clone https://github.com/noahdav1d/rag_chatbot_sai3.git
 cd rag_chatbot_sai3
 ```
-
+<h2>Python setup</h2>
 <h3>2. Create a virtual environment</h3>
 
 ```
 python -m venv venv
 ```
+- on Mac:
+python3 -m venv venv
 
 <h3>3. Activate the virtual environment</h3>
 
@@ -28,31 +32,21 @@ venv\Scripts\Activate
 
 <h3>4. Install libraries</h3>
 
+- Open a terminal in VS Code
+
 ```
 pip install -r requirements.txt
 ```
 
-<h3>5. Add Together API Key</h3>
-Rename the .env.example file to .env
-Add your Together API Key
-
-<h2>Executing the scripts</h2>
-
-- Open a terminal in VS Code
+<h2>Executing the script</h2>
 
 - Execute the following command:
 
 ```
-docker-compose --build
+./run_setup.sh
 ```
 
-- Alternatively without docker:
-
+<h2>Docker Setup</h2>
 ```
-python extract_pdf.py
-python split_text.py
-python faiss_db.py
-python retriever.py
-python rag_loop.py
-streamlit run rag_loop.py
+docker-compose up --build
 ```
