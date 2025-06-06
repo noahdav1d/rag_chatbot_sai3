@@ -74,4 +74,8 @@ Rename the .env.example file to .env and Add your Together API Key
 docker-compose up --build
 ```
 
-<h3>4. Open App</h3>
+<h3>4. Open App on localhost</h3>
+
+```
+http://0.0.0.0:7860
+```
