@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 
 <h2>Docker Setup</h2>
-<h3>6. Start Docker Compose</h3>
+<h3>3. Start Docker Compose</h3>
 
 ```
 docker-compose up --build
