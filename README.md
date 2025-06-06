@@ -2,7 +2,7 @@
 
 <h2>Prerequisites</h2>
 <ul>
-  <li>Python 3.11 and Bash+</li>
+  <li>Python 3.11+ and Bash</li>
   <li> or </li>
   <li>Docker</li>
 </ul>
