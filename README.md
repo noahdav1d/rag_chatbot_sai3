@@ -2,10 +2,10 @@
 
 <h2>Prerequisites</h2>
 <ul>
+  <li>Git</li>
   <li>Python 3.11+ and Bash</li>
   <li> or </li>
   <li>Docker</li>
-  <li>Git</li>
 </ul>
 
 <h2>Installation</h2>
@@ -15,6 +15,14 @@
 git clone https://github.com/noahdav1d/rag_chatbot_sai3.git
 cd rag_chatbot_sai3
 ```
+
+<h2>Togeteher API Key</h2>
+<h3>2. Add Together API Key</h3>
+
+```
+Rename the .env.example file to .env and Add your Together API Key
+```
+
 <h2>Python setup</h2>
 <h3>3. Create a virtual environment</h3>
 
@@ -43,7 +51,7 @@ pip install -r requirements.txt
 - Execute the following command:
 
 ```
-./run_setup.sh
+./run_setup_python.sh
 ```
 
 <h2>Docker Setup</h2>
