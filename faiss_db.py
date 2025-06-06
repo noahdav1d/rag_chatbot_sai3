@@ -18,8 +18,8 @@ pdf_dir = Path("test_data")
 for pdf_file in pdf_dir.rglob("*.pdf"):
     print(f"Processing: {pdf_file.name}")
     text = clean_and_extract_text_from_pdf(pdf_file)
-    chunks = split_text_into_chunks(text, source_file=pdf_file.name)
-    documents.extend([Document(page_content=chunk) for chunk in chunks])
+    chunks = split_text_into_chunks(text)  # Removed source_file parameter
+    documents.extend([Document(page_content=chunk, metadata={"source": pdf_file.name}) for chunk in chunks])
 
 # 4. FAISS Index erstellen
 db = FAISS.from_documents(documents, embedding_model)
